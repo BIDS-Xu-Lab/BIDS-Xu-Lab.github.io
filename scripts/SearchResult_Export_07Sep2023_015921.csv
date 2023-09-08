@@ -1,0 +1,371 @@
+----------------------------------------------------------------------------------------------------------------
+Search Criteria:,
+"     Principal Investigator (PI): Hua Xu"
+"     Fiscal Year: Active Projects"
+----------------------------------------------------------------------------------------------------------------
+"NIH Spending Categorization","Project Terms","Project Title","Public Health Relevance","Administering IC","Application ID","Award Notice Date","Opportunity Number","Project Number","Type","Activity","IC","Serial Number","Support Year","Suffix","Program Official Information","Project Start Date","Project End Date","Study Section","Subproject Number","Contact PI Person ID","Contact PI / Project Leader","Other PI or Project Leader(s)","Congressional District","Department","Primary DUNS","Primary UEI","DUNS Number","UEI","FIPS","Latitude","Longitude","Organization ID (IPF)","Organization Name","Organization City","Organization State","Organization Type","Organization Zip","Organization Country","ARRA Indicator","Budget Start Date","Budget End Date","CFDA Code","Funding Mechanism","Fiscal Year","Total Cost","Total Cost (Sub Projects)","Funding IC(s)","Direct Cost IC","InDirect Cost IC","NIH COVID-19 Response","Project Abstract","Total Cost IC",
+"No NIH Category available","Address;Affect;Alternative Splicing;Astrocytes;Bar Codes;Binding;Biological;Biological Markers;Biological Process;Biological Response Modifiers;Brain;CD8-Positive T-Lymphocytes;CRISPR/Cas technology;CTLA4 gene;Cell Line;Cells;Central Nervous System;Cerebrospinal Fluid;Circulation;Clinical;DNA;Data;Detection;Enzyme-Linked Immunosorbent Assay;Exhibits;Frequencies;Gene Expression Profile;Genes;Growth Factor;HIV;HIV Seronegativity;HIV-associated neurocognitive disorder;Hippocampus;Homeostasis;Human;Image;Immune;Immunity;Immunoassay;Immunohistochemistry;Immunoprecipitation;Individual;Inflammatory;Interferon Type II;Interleukin-1 beta;Lead;Ligands;Macaca mulatta;Malignant Neoplasms;Measures;Membrane;Messenger RNA;Microglia;Neuroimmune system;Neurologic Symptoms;Neurons;Neuropathogenesis;Pathogenesis;Pathway interactions;Peripheral;Persons;Production;Protein Isoforms;Protein Secretion;Proteins;RNA Splicing;Regulation;Reporting;Repression;Research;Resolution;Reverse Transcriptase Polymerase Chain Reaction;Role;SIV;Sampling;Self Tolerance;Severities;Signal Transduction;T cell regulation;TNF gene;Tail;Techniques;Testing;Time;Tissue Sample;Tissues;Variant;Virus Diseases;antibody conjugate;brain cell;brain tissue;cancer cell;cell type;checkpoint receptors;chemokine;clinically relevant;cytokine;digital imaging;frontal lobe;immune cell infiltrate;immune checkpoint;in vivo;indexing;innovation;insight;macrophage;melanoma;migration;monocyte;multiplex assay;neurocognitive disorder;neuroinflammation;peripheral blood;programmed cell death ligand 1;programmed cell death protein 1;receptor;single nucleus RNA-sequencing;spatial relationship;tumor","Immune checkpoints in the CNS and HIV-associated neurocognitive disorder","PROJECT NARRATIVE
+Our research aims to study the levels, profiles, and clinical relevance of immune checkpoints (ICPs), key
+regulators of immune homeostasis and defense, in the brain of HIV-infected people with or without
+neurocognitive disorder (HAND). Our study will not only lead to the discovery of potential HAND biomarkers but
+also uncover the roles of ICPs in the pathogenesis of HAND.","NINDS","10889463","8/29/2023 12:00:00 AM","PA-20-185","1R56NS129438-01A1","1","R56","NS","129438","01","A","DALEY, WILLIAM PATRICK","9/1/2023 12:00:00 AM","8/31/2024 12:00:00 AM","Special Emphasis Panel[ZRG1-IIDB-Q(02)M]"," ","8510615","YU, QIGUI Q","LIU, YUNLONG ; XU, HUANBIN ","07","MICROBIOLOGY/IMMUN/VIROLOGY","603007902","SHHBRBAPSM35","603007902; 625168166","DKNHLK3NBPH7; DL9MTNNKWYR9; GY8GKRUWM7D5; HA48EWMJFV47; HCNBFNDANNV5; HCRDU7BNPZ13; HCWTYJ7KQ4U6; HEBLAL94JHP7; NKCRSKVJBXE3; SHHBRBAPSM35; TA1NYNZ27LQ7; WJJRCLJ936C8; X51WYC1QEPD7; XNBJV454V2W1; YCJNP5NJYCY1; YW8WNKKANDR9","US","39.779213","-86.175288","577806","INDIANA UNIV-PURDUE UNIV AT INDIANAPOLIS","INDIANAPOLIS","IN","SCHOOLS OF MEDICINE","462022915","UNITED STATES","N","9/1/2023 12:00:00 AM","8/31/2024 12:00:00 AM","084","Non-SBIR/STTR","2023","823691"," ","OD","612182","211509"," ","Abstract
+ Immune checkpoints (ICPs) exert inhibitory or stimulatory effects on immune defense, surveillance,
+regulation, and self-tolerance through their ligand-receptor interactions. ICPs exist in both membrane-bound
+and soluble forms in vivo. Imbalances between inhibitory and stimulatory membrane-bound ICPs (mICPs) in
+malignant cells and immune cells in the peripheral blood and tissues have been well documented. Blockade of
+inhibitory mICPs such as CTLA-4, PD-1, and PD-L1 has become a revolutionary treatment for advanced
+stages of malignancies such as melanoma. However, the origin, regulation, and biological significance of both
+mICPs and soluble ICPs (sICPs) in the central nervous system (CNS) have not yet been systematically
+studied. We used a multiplex immunoassay to simultaneously quantify the concentrations of 16 sICPs in
+cerebrospinal fluid (CSF) samples from 33 HIV-negative individuals (HNIs) and 105 people living with HIV
+(PLWH), including 80 cases with HIV-associated neurocognitive disorder (HAND) and 25 cases without HAND.
+We found that 10 sICPs (sHVEM, sCD27, sGITR, sICOS, sLAG-3, sPD-1, sTIM-3, sBTLA, sCD28, & sCD40)
+were consistently detected in all CSF samples, and most of them were highly elevated in PLWH. Strikingly,
+CSF sHVEM was significantly increased in HAND when compared to PLWH without HAND. These 10 sICPs
+were also detectable in the CSF samples from rhesus macaques (RMs). Immunohistochemistry (IHC) analysis
+of brain tissues (frontal cortex and hippocampus) from RMs with and without simian immunodeficiency virus
+(SIV) infection showed that mHVEM was expressed at a basal level on neurons, but not on astrocytes or
+microglia, and mHVEM expression was highly increased in SIV-infected RMs (SIV/RMs). Furthermore, we
+have recently reported that PD-L1 expression in U87MG cells (a human astrocyte cell line) can be robustly
+induced by a mixture of IFN-γ/IL-1β/TNF-α, and induced PD-L1 controls production of MCP-1 (the most
+important chemokine that regulates migration of monocytes/macrophages) via PD-L1 intrinsic signaling. Thus,
+we hypothesize that both sICPs and mICPs are dysregulated in the CNS of PLWH, which are associated with
+HAND neuropathogenesis. We have two Specific Aims to test this central hypothesis: (1) To determine sICP
+profiles and biological functions in the CNS of PLWH and SIV/RMs, and (2) To characterize the cellular niches
+and spatial associations of ICP receptor/ligand-positive neural cells and infiltrating immune cells in the brain of
+PLWH and SIV/RMs. Our results will provide insights into the roles of ICPs in the CNS neuroimmune
+dysregulation and neuroinflammation of PLHIV with and without HAND. The CSF levels and profiles of sICPs
+such as sHVEM can potentially be used as a biomarker for HAND severity and progression.","823691",
+"No NIH Category available","Agreement;Antibodies;Area;Award;Benchmarking;Biological Assay;COVID-19 diagnostic;COVID-19 testing;Calibration;California;Clinical Pathology;Clinical Research;Cloud Computing;Cloud Service;Collaborations;Communicable Diseases;Communication;Communities;Computer software;Consultations;Creativeness;Data;Data Collection;Data Discovery;Data Science;Data Scientist;Data Sources;Development;Diagnostic;Diagnostic tests;Ensure;Evaluation;FAIR principles;FDA approved;Funding;Goals;Gold;Health Insurance Portability and Accountability Act;Health Sciences;Infection;Informatics;Internet;Knowledge;Laboratories;Logistics;Metadata;Methods;Online Systems;Persons;Positioning Attribute;Preparation;Privacy;Procedures;Process;Protocols documentation;Quality Control;RADx;RADx Radical;Reporting;Research Personnel;Resources;Risk;Role;Sampling;Science;Secure;Security;Semantics;Signal Transduction;Specialist;Specimen;Standardization;Structure;Technology;Terminology;Testing;Texas;United States National Institutes of Health;Universities;Update;Validation;Viral;Viral Load result;Virus;Visualization;Work;coronavirus disease;dashboard;data access;data centers;data exchange;data management;data modeling;data reuse;data sharing;data standards;design;detection method;diagnostic technologies;distributed data;expectation;experience;help-seeking behavior;indexing;innovation;meetings;member;new technology;news;novel diagnostics;pandemic disease;programs;quality assurance;repository;search engine;syntax;testing services;tool;transmission process;usability;user centered design;user-friendly;virology","RADx-Rad Discoveries & Data: Consortium Coordination Center Program Organization","NARRATIVE 
+  
+The  RADx-­rad  Consortium  Data  and  Coordination  Center  (radCDCC)  will  use  advanced data  management  to 
+coordinate  a  consortium  of  innovative  COVID-­19  diagnostic  technology  developers.  The  partnership  between 
+the  University  of  California  San  Diego  and  the  University  of  Texas  Health  Science  Center  at  Houston  brings 
+together informatics/data scientists and infectious diseases specialists who will standardize viral samples, testing 
+and procedures, as well as data in order to integrate and share data in a meaningful manner. ","NLM","10854683","6/2/2023 12:00:00 AM","PA-21-268","3U24LM013755-03S2","3","U24","LM","013755","03","S","WANG, YANLI","12/21/2020 12:00:00 AM","11/30/2024 12:00:00 AM","Special Emphasis Panel[ZRG1-BST-W(50)R]"," ","1900244","OHNO-MACHADO, LUCILA ","ARONOFF-SPENCER, ELIAH S; XU, HUA ","03","INTERNAL MEDICINE/MEDICINE","043207562","FL6GV84CKN57","043207562","FL6GV84CKN57","US","41.310925","-72.926428","9420201","YALE UNIVERSITY","NEW HAVEN","CT","SCHOOLS OF MEDICINE","065208327","UNITED STATES","N","6/1/2023 12:00:00 AM","11/30/2024 12:00:00 AM","310","Other Research-Related","2023","5687219"," ","OD","4912677","774542","C4","ABSTRACT 
+  
+Preparing SARS-­CoV-­2 testing data for reuse requires making the data syntactically and semantically equivalent. 
+Standardization  of  terminologies  and  a  common  data  model  accomplish  the  former,  while  the  latter  is 
+accomplished  through  understanding  the  data  and  making  it  comparable  across  RADx-­rad  awardees  by 
+benchmarking against known gold standards. The standardization of samples is as important as standardizing 
+the data, particularly in the highly innovative RADx-­rad program, where new technologies will be developed or 
+optimized for deployment in various settings. Highly motivated RADx-­rad awardees will receive advice on how 
+their diagnostics compare to FDA-­approved ones, with each other, how their diagnostic performs in independent 
+testing,  as  well as how  to ensure  the  tests  are usable  in  real  world  settings.  In  collaboration  with  University  of 
+Texas  Health  Science  Center  at  Houston,  University  of  California San  Diego  researchers  in  informatics/data 
+science and infectious diseases with ample experience in leading large consortia have designed a unique RADx-­
+rad  Consortium  Data  and  Coordination  Center  (radCDCC).  This  center  is  based  on  three  pillars:  (1)  effective 
+administration and coordination among awardees, NIH, and other programs;; (2) innovative approaches and tools 
+to  collect  and  standardize  data  and  metadata  to  promote  findability,  accessibility,  interoperability  and  reuse 
+(FAIR)  for  data  sharing;;  and  (3)  principled  preparation  of  standardized  samples  with  known  quantities  of  viral 
+loads, and standardized procedures for testing new diagnostics to allow comparison across tests and calibration 
+of  new  technologies.  Backed  by  sophisticated  HIPAA-­compliant  cloud  services,  user  friendly  web-­tools,  and 
+extensive  support  from  UCSD’s  facilities  for  computation and  for  clinical  research,  the  radCDCC will  interface 
+with other RADx programs and other COVID-­19 focused programs at NIH to ensure alignment of awardees, NIH 
+and the public in the pursuit of effective, affordable, and deployable new technologies for testing.  ","5687219",
+"No NIH Category available","Address;Administrative Supplement;Adoption;Algorithms;Architecture;Artificial Intelligence;Clinical;Clinical Research;Cloud Service;Code;Communities;Complex;Computer software;Consensus;Consumption;Data;Development;Disease;Drug Exposure;Ecosystem;Electronic Health Record;Ensure;Goals;Individual;Information Retrieval;Intention;Internet;Knowledge;Knowledge Discovery;Learning;Life Cycle Stages;Literature;Logic;Manuals;Methods;Observational Study;Patients;Pharmaceutical Preparations;Phenotype;Process;Protocols documentation;Publishing;Pythons;Readability;Records;Reproducibility;Research;Research Personnel;Services;Software Engineering;Software Tools;System;Technology;Time;Visualization;cloud based;cohort;community engaged research;computable phenotypes;computing resources;concept mapping;deep learning algorithm;design;eHealth;feature extraction;flexibility;graphical user interface;improved;machine learning model;method development;open source;open source library;parent project;research and development;software development;tool;treatment response;usability;web based interface;web services","PheBC: bias correction methods for EHR derived phenotype","Narrative
+Our goal for this Administrative Supplement is to disseminate machine-readable and computable phenotype
+definitions and algorithms to improve reproducibility in clinical studies. Our specific aims are to enhance the
+reusability of phenotype extraction tools and promote the adoption of bias correction tools. We will refactor our
+software architecture and user interfaces to achieve these aims.","NLM","10839649","9/1/2023 12:00:00 AM","PA-20-272","3R01LM013519-03S1","3","R01","LM","013519","03","S","WANG, YANLI","9/1/2021 12:00:00 AM","5/31/2025 12:00:00 AM","ZLM1(01)"," ","11851698","CHEN, YONG ","XU, HUA ","03","BIOSTATISTICS & OTHER MATH SCI","042250712","GM1XX56LEP58","042250712","GM1XX56LEP58","US","39.953462","-75.193983","6463801","UNIVERSITY OF PENNSYLVANIA","PHILADELPHIA","PA","SCHOOLS OF MEDICINE","191046205","UNITED STATES","N","9/1/2023 12:00:00 AM","5/31/2024 12:00:00 AM","879","Non-SBIR/STTR","2023","247672"," ","OD","183818","63854"," ","PROJECT SUMMARY
+Phenotyping
+drug
+observational
+to
+records
+advanced
+required
+ refers to the process of identifying specific phenotypic patient statuses, such as disease status,
+ exposure, and treatment response. I is one of the most critical data extraction tasks in real-world
+studies based on patient data. Traditionally, phenotyping has heavily relied on expert consensus
+create phenotype definitions for individual diseases. However, with the widespread usage of electronic health
+ (EHRs) in clinical research and the development of artificial intelligence (AI) technologies, more
+ phenotyping efforts have been devoted to automated feature extraction, reducing the manual effort
+to create precise phenotypes.
+t
+There
+on
+phenotyping
+for
+phenotyping
+Our
+phenotype
+Specifically,
+adding
+We
+research
+are significant challenges in acquiring and reusing existing phenotyping information and algorithms based
+ electronic health records (EHRs) in a computable manner. Furthermore, in our current project, the
+information extraction system and ias correction tool were originally designed as stand-alone tools
+ research purposes, we propose to develop a set of open services that f acilitate the sharing and reuse of
+information extraction tools and bias correction tools in research communities.
+ 
+ overarching goa of t his Administrative Supplement is to disseminate machine-readable and computable
+definitions and algorithms to reduce duplication of effort and improve reproducibility in clinical studies.
+the two specific aims are: (1) Enhance the reusability of phenotyping information extraction tools by
+APIs and services. (2) Engage research communities to promote the adoption of bias correction tools.
+plan to refactor our software architecture and user interfaces to enhance the adoption of our tools among
+communities.
+b
+l","247672",
+"No NIH Category available","Agreement;Antibodies;Area;Award;Benchmarking;Biological Assay;COVID-19;COVID-19 diagnostic;COVID-19 pandemic;COVID-19 testing;Calibration;California;Clinical Pathology;Clinical Research;Cloud Computing;Cloud Service;Collaborations;Communicable Diseases;Communication;Communities;Computer software;Consultations;Creativeness;Data;Data Collection;Data Discovery;Data Science;Data Scientist;Data Sources;Development;Diagnostic;Diagnostic tests;Ensure;Evaluation;FAIR principles;FDA approved;Funding;Goals;Gold;Health Insurance Portability and Accountability Act;Health Sciences;Infection;Informatics;Internet;Knowledge;Laboratories;Logistics;Metadata;Methods;Online Systems;Persons;Positioning Attribute;Preparation;Privacy;Procedures;Process;Protocols documentation;Quality Control;RADx;RADx Radical;Reporting;Research Personnel;Resources;Risk;Role;Sampling;Science;Secure;Security;Semantics;Signal Transduction;Specialist;Specimen;Standardization;Structure;Technology;Terminology;Testing;Texas;United States National Institutes of Health;Universities;Update;Validation;Viral;Viral Load result;Virus;Visualization;Work;coronavirus disease;dashboard;data access;data centers;data exchange;data management;data modeling;data reuse;data sharing;data standards;design;detection method;diagnostic technologies;distributed data;expectation;experience;help-seeking behavior;indexing;innovation;meetings;member;new technology;news;novel diagnostics;programs;quality assurance;repository;search engine;syntax;testing services;tool;transmission process;usability;user centered design;user-friendly;virology","RADx-Rad Discoveries & Data: Consortium Coordination Center Program Organization","The RADx-rad Consortium Data and Coordination Center (radCDCC) will use advanced data management
+to coordinate a consortium of innovative COVID-19 diagnostic technology developers. The partnership
+between the University of California San Diego and the University of Texas Health Science Center at
+Houston brings together informatics/data scientists and infectious diseases specialists who will standardize viral
+samples, testing and procedures, as well as data in order to integrate and share data in a meaningful manner.","NLM","10745886","1/31/2023 12:00:00 AM","PA-21-268","7U24LM013755-03","7","U24","LM","013755","03"," ","WANG, YANLI","1/1/2023 12:00:00 AM","11/30/2024 12:00:00 AM","Special Emphasis Panel[ZRG1-BST-W(50)R]"," ","1900244","OHNO-MACHADO, LUCILA ","ARONOFF-SPENCER, ELIAH S; XU, HUA ","03","INTERNAL MEDICINE/MEDICINE","043207562","FL6GV84CKN57","043207562","FL6GV84CKN57","US","41.310925","-72.926428","9420201","YALE UNIVERSITY","NEW HAVEN","CT","SCHOOLS OF MEDICINE","065208327","UNITED STATES","N","1/1/2023 12:00:00 AM","11/30/2024 12:00:00 AM","310","Other Research-Related","2023","5853027"," ","OD","5000365","852662","C6","Preparing SARS-CoV-2 testing data for reuse requires making the data syntactically and semantically equivalent.
+Standardization of terminologies and a common data model accomplish the former, while the latter is
+accomplished through understanding the data and making it comparable across RADx-rad awardees by
+benchmarking against known gold standards. The standardization of samples is as important as standardizing
+the data, particularly in the highly innovative RADx-rad program, where new technologies will be developed or
+optimized for deployment in various settings. Highly motivated RADx-rad awardees will receive advice on how
+their diagnostics compare to FDA-approved ones, with each other, how their diagnostic performs in independent
+testing, as well as how to ensure the tests are usable in real world settings. In collaboration with University of Texas Health Science Center at Houston, University of California San Diego researchers in informatics/data science and infectious diseases with ample experience in leading large consortia have designed a unique RADx-rad Consortium Data and Coordination Center (radCDCC). This center is based on three pillars: (1) effective administration and coordination among awardees, NIH, and other programs;; (2) innovative approaches and tools
+to collect and standardize data and metadata to promote findability, accessibility, interoperability and reuse
+(FAIR) for data sharing;; and (3) principled preparation of standardized samples with known quantities of viral
+loads, and standardized procedures for testing new diagnostics to allow comparison across tests and calibration
+of new technologies. Backed by sophisticated HIPAA-compliant cloud services, user friendly web-tools, and
+extensive support from UCSD’s facilities for computation and for clinical research, the radCDCC will interface
+with other RADx programs and other COVID-19 focused programs at NIH to ensure alignment of awardees, NIH
+and the public in the pursuit of effective, affordable, and deployable new technologies for testing","5853027",
+"No NIH Category available","Acceleration;Address;Adult;Affect;Aftercare;Age;Anatomy;Animals;Anti-Retroviral Agents;Antiviral Agents;Birth;Breast Feeding;Cells;Child;Childhood;Clinical Data;Clinical Trials;Data;Development;Disease remission;Drug Kinetics;Early Intervention;Early treatment;Equilibrium;Evaluation;Exposure to;Formulation;Genetic;HIV;HIV Infections;HIV therapy;HIV-1;Half-Life;Immune;Immune system;Immunologics;Infant;Infection;Injectable;Integrase;Interruption;Intervention;Intravenous;Knowledge;Lymphoid Tissue;Macaca;Metabolism;Modeling;Molecular;Monitor;Neonatal;Newborn Infant;Outcome;Pathogenicity;Penetration;Perinatal;Pharmaceutical Preparations;Prevention;Preventive treatment;Primates;Principal Investigator;Publishing;Recommendation;Regenerative capacity;Regimen;Residual state;SIV;Safety;Sampling;Site;Tissue Sample;Treatment Protocols;Treatment outcome;Viral;Viral Genome;Viral Load result;Viral Physiology;Viral reservoir;Viremia;Virus Integration;Withholding Treatment;analog;comparative;efficacy evaluation;high risk;infancy;infant infection;inhibitor;insight;neonate;pediatric human immunodeficiency virus;pediatric human immunodeficiency virus infection;preclinical trial;prevent;preventive intervention;prophylactic;simian human immunodeficiency virus;transmission process;treatment duration;treatment strategy;truvada;viral rebound","Early prevention interventions towards ART-free pediatric HIV remission","Principal Investigators (Last, first, middle): Xu, Huanbin
+PROJECT NARRATIVE:
+Despite remarkable advances in prevention of vertical HIV-1 transmission, pediatric HIV infections still occur
+peripartum rather than through breastfeeding, however, there is little data to guide the optimal early treatment
+regimens in vulnerable neonates with high risk of MTCT. Our primary findings indicate that infant macaques
+intravenously infected with pathogenic SIV at birth achieve sustained virologic remission by 9-months of early
+intervention, suggesting pediatric HIV remission is achievable in a proportion of infants infected with or exposed
+to HIV. Assessing the impact of early viral reservoir on the treatment outcomes, determining optimal prevention
+intervention strategies for a sustained state of ART-free viral remission, and exploring the antiretroviral
+pharmacokinetics and immune alteration in unique infants using early prevention interventions, will accelerate
+translational treatment towards pediatric HIV remission.","NIMH","10700531","2/16/2023 12:00:00 AM","PA-20-144","1R01MH133474-01","1","R01","MH","133474","01"," ","JOSEPH, JEYMOHAN","2/16/2023 12:00:00 AM","1/31/2028 12:00:00 AM","HIV Comorbidities and Clinical Studies Study Section[HCCS]"," ","10723914","XU, HUANBIN ","Not Applicable","01","PATHOLOGY","053785812","XNY5ULPU8EN6","053785812","XNY5ULPU8EN6","US","29.935429","-90.12279","8424601","TULANE UNIVERSITY OF LOUISIANA","NEW ORLEANS","LA","SCHOOLS OF MEDICINE","701185665","UNITED STATES","N","2/16/2023 12:00:00 AM","1/31/2024 12:00:00 AM","242","Non-SBIR/STTR","2023","781224"," ","NIAID","447270","333954"," ","Principal Investigators (Last, first, middle): Xu, Huanbin
+PROJECT SUMMARY/ABSTRACT:
+Despite remarkable advances in prevention of vertical HIV-1 transmission, however, there is little data to guide
+the optimal early treatment regimens in vulnerable neonates with high risk of MTCT. Current recommended
+antiretroviral regimens for children are extrapolated from clinical trial in adults. Most recently, our studies show
+that a short-term combined ART (cART) incorporating an integrase strand transfer inhibitor (INSTI), initiated at
+3 days post infection (dpi) but not one day beyond, can rapidly suppress viremia to undetectable levels in
+neonates, and a prolonged 9-month-early intervention of this regimen results in sustained virologic remission in
+4 of 5 infants for more than 2.5 years after treatment cessation. Surprisingly, our further preliminary data showed
+that delaying treatment (e.g., newborn macaques inoculated with SIV/SHIV AD8 and cART initiated at 5dpi) or
+treating older infants (e.g., 1.5-month old infant macaques exposed to SIV with cART initiated at 3dpi) drastically
+altered the outcomes after interruption of the same 9-month-early intervention, as indicated by viral rebound in
+4/5 and 3/3 animals, respectively. These findings suggest that outcome of pediatric sustained virologic remission
+appears to be very sensitive to the age of infants (e.g., newborn versus infants) and the timing (e.g., proviral
+reservoir seeding?) of intervention initiation, yet the exact mechanisms of viral remission remain elusive. New
+antivirals are also emerging and a once-monthly analog of DTG called cabotegravir (CAB) shows even greater
+potential for preventing HIV acquisition and replication in recent adult clinical trials, yet its efficacy and safety in
+pediatric HIV therapy have not been examined. Given newborn neonates lack well-organized lymphoid tissues
+(sanctuary sites for antiretrovirals penetration and viral reservoirs) while possessing more dynamic and
+regenerative capacity than an adult, prophylactic intervention in infants may be unique in that it may have more
+effective antiviral activity for ART-free HIV remission, resulting in more replenishment of key immune cells and
+normal development of the immune system. In this proposal, we hypothesize that early prevention interventions,
+based on appropriate initial timing, duration and INSTI combination, could effectively block viral genome
+integration and completely eliminate early viral reservoirs, resulting in a sustained state of ART-free virologic
+remission in infants exposed to or infected with HIV, and subsequently, normal immune development throughout
+infancy. Utilizing the pediatric NHP model of HIV, our overarching objective is address: SA1, the impact of
+proviral reservoirs on prophylactic intervention outcomes in infants while assessing the efficacy and safety of
+cabotegravir in a preclinical trial; SA2, the optimum prevention intervention strategy for achieving pediatric HIV
+remission, and; SA3, the pharmacokinetics and immunological alterations of ART in the unique infant primate
+host. Overall, these studies will provide insight into the optimal prevention intervention that achieves a sustained
+state of ART-free virologic remission for infants exposed to or infected with HIV at birth, which will have significant
+translational significance towards the treatment of HIV infection of infants in general.","781224",
+"No NIH Category available","Address;Agreement;Area;Atlases;Automobile Driving;BRAIN initiative;Big Data;Biometry;Brain;Cataloging;Cells;Classification;Collaborations;Communication;Communities;Data;Data Analytics;Data Coordinating Center;Data Discovery;Data Science;Data Scientist;Data Set;Development;Discipline;Disease;Elements;Engineering;Ensure;Equipment and supply inventories;FAIR principles;Feedback;Goals;Health;Human;Image;Individual;Informatics;Institution;Ion Channel;Knowledge;Logistics;Machine Learning;Metadata;Microscopy;Modality;Monitor;Neurologic;Neurosciences;Online Systems;Ontology;Positioning Attribute;Procedures;Process;RADx Radical;Research Personnel;Resource Development;Resource Sharing;Resources;Role;Secure;Services;Slice;Speed;Structure;Subgroup;Synapses;System;Technology;Terminology;Testing;Time;United States National Institutes of Health;Validation;Woman;Work;brain cell;brain health;career;cell type;cloud based;computerized data processing;dashboard;data complexity;data ecosystem;data format;data modeling;data resource;data reuse;data standards;data tools;design;digital;experience;gigabyte;improved;knowledge base;member;metadata standards;multidisciplinary;multiplex assay;nanometer;nervous system disorder;neuroinformatics;outreach;petabyte;portability;programs;receptor;skills;synergism;tool;usability;user-friendly;web portal","Engagement and outreach to achieve a FAIR data ecosystem for the BICAN","BICAN's Coordinating Unit for Biostatistics, Informatics, and Engagement (CUBIE) is designed to provide effective coordination benefits to the awardee network, the NIH, and the scientific community. Advancing the ambitious BICAN goals requires CUBIE to anticipate and address potential challenges in coordinating time-sensitive management activities, mitigating data complexity and tool scalability, and supporting diverse service needs. Our CUBIE coordination and outreach team is highly experienced in leading large consortia projects at national scale, unique in bringing a set of diverse perspectives, and well-positioned to advance the overarching goals of BICAN.","NIMH","10695226","7/26/2023 12:00:00 AM","RFA-MH-21-237","5U24MH130988-02","5","U24","MH","130988","02"," ","YAO, YONG","9/1/2022 12:00:00 AM","6/30/2027 12:00:00 AM","ZMH1-ERB-L(04)"," ","7938505","ZHANG, GUO-QIANG ","XU, HUA ; ZHENG, WENJIN JIM","18","NEUROLOGY","800771594","ZUFBNVZ587D4","800771594","ZUFBNVZ587D4","US","29.703025","-95.403303","578417","UNIVERSITY OF TEXAS HLTH SCI CTR HOUSTON","HOUSTON","TX","SCHOOLS OF MEDICINE","770305400","UNITED STATES","N","7/1/2023 12:00:00 AM","6/30/2024 12:00:00 AM","242","Other Research-Related","2023","973669"," ","NIMH","624147","349522"," ","As a part of BRAIN 2.0, the BRAIN Initiative Cell Atlas Network (BICAN) is expected to advance fundamental knowledge and enabling technology for classifying human brain cell types, understanding their organizational principles, and providing open-access digital brain cell reference atlases, emphasizing cell diversity in health and disease. Undertaking the grand challenge of BRAIN 2.0 requires the scientific community to collaborate and tap the tremendous skill and knowledge in a diverse set of disciplines outside of neuroscience. BICAN's Coordinating Unit for Biostatistics, Informatics, and Engagement (CUBIE) is designed to provide effective coordination benefits to the awardee network, the NIH, and the scientific community. Advancing the ambitious BICAN goals requires CUBIE to anticipate and address potential challenges in coordinating time-sensitive management activities, mitigating data complexity and tool scalability, and supporting diverse service needs. Our team is highly experienced in leading large consortia projects at national scale, such as RADx-rad Data Coordinating Center, bioCADDIE data discovery project, informatics cores for the CTSA, the national neurological data resources. We have the knowledge, skill set, and resources to launch the Engagement and Outreach element for CUBIE (CUBIE4) and work with the BICAN network in taming the structural and organizational complexity of data and driving a FAIR (Findable, Accessible, Interoperable, Reusable) data ecosystem through three facets. The Administration Facet will ensure effective communications among the awardees to maximize synergy, facilitate collaboration and resource utilization across the BRAIN Initiative. We will provide support and establish processes for network members to adhere to data models, terminology standards, data formats and structures, conforming to FAIR data principles. We will launch, maintain and enhance a Web Portal and a Data Dashboard for the BICAN network, using role-based access control and a cutting-edge content-management system. The Technology Facet will work with other CUBIE elements and BICAN network awardees to establish metadata standards for diverse brain data; apply best practices related to data interpretability and integrability; and develop a cloud-based technology testing platform to provide sandboxes for exploring, evaluating and iteratively improving tools developed through BICAN. The Service Facet will assist BICAN awardees in their development of data processing and analytics (including machine learning) tools to ensure that they are portable, scalable, and user-friendly. In particular, our biostatistics team will provide data rendering and analytics support to provide informed and timely feedback to CUBIE and the BICAN stakeholders. We contribute to diversity in multidisciplinary knowledge, women and early-career investigators, neurological diseases and brain health perspectives, and institutional inclusivity resources. Therefore, the CUBIE4 team is uniquely well-positioned to advance the overarching goals of BICAN.","973669",
+"No NIH Category available","Aerobic Exercise;Affect;Alzheimer&apos;s Disease;Alzheimer&apos;s disease related dementia;American;Animal Model;Animals;Aromatherapy;Brain Diseases;Clinical Trials;Clinical Trials Design;Cognitive aging;Collaborations;Communities;Data;Data Sources;Dementia;Development;Diet;Disease;Elderly;Electronic Health Record;Environmental Risk Factor;Gene Targeting;Genetic Risk;Goals;Individual;Informatics;Intervention;Knowledge;Link;Literature;Methods;Mining;Modeling;Natural Language Processing;Network-based;Ontology;Pathway Analysis;Pathway interactions;Pharmaceutical Preparations;Phototherapy;Prevention;Reporting;Research;Signal Transduction;Site;Sleep;Standardization;Translating;Validation;Visualization;Work;alternative treatment;clinical investigation;cognitive function;cognitive training;computerized tools;data resource;dietary supplements;drug discovery;drug repurposing;effective therapy;improved;in silico;in vivo;information model;innovation;intervention effect;knowledge base;knowledge graph;mouse model;multimodal data;multimodality;neural network;novel;pharmacologic;population based;predictive modeling;prevent;protective factors;synergism;tool","Detecting synergistic effects of pharmacological and non-pharmacological interventions for AD/ADRD","PROJECT NARRATIVE
+Most current studies focus on pharmacological intervention (PI) for Alzheimer's disease and related dementia
+(AD/ADRD); however, increasing evidence from multimodal studies elucidates possible synergistic effects of PI
+and non-pharmacological intervention (NPI) for AD/ADRD. To respond to the PAR-20-156, the objective of this
+application is to develop translational informatics approaches to aggregate, standardize and discover the
+synergistic effects of PI and NPI candidates on AD/ADRD using multi-modal data resources (i.e., literature, EHR,
+clinical trials) followed by animal model validation. The successful completion of this project will deliver a
+comprehensive NPI knowledge graph, novel informatics approaches, ranked list of drug and NPI candidates,
+and validated synergistic intervention using multi-modal data sources.","NIA","10689949","7/24/2023 12:00:00 AM","PAR-20-156","5R01AG078154-02","5","R01","AG","078154","02"," ","ARUNKUMAR, NANDINI","9/1/2022 12:00:00 AM","5/31/2027 12:00:00 AM","ZAG1-ZIJ-6(M3)"," ","11975202","ZHANG, RUI ","XU, HUA ","05","SURGERY","555917996","KABJZBBJ4B54","555917996","KABJZBBJ4B54","US","44.975143","-93.227003","1450402","UNIVERSITY OF MINNESOTA","MINNEAPOLIS","MN","SCHOOLS OF MEDICINE","554552070","UNITED STATES","N","6/1/2023 12:00:00 AM","5/31/2024 12:00:00 AM","866","Non-SBIR/STTR","2023","762782"," ","NIA","606933","155849"," ","PROJECT SUMMARY
+Alzheimer's disease (AD) and related dementia (AD/ADRD) is a multifactorial and heterogeneous disorder. Most
+current studies focus on drug interventions for AD/ADRD and currently none of pharmacological intervention (PI)
+discovery research has been translated into effective treatments. However, increasing evidence demonstrates
+that non-pharmacological interventions (NPI), such as sleep, diet, dietary supplements, aerobic exercise,
+aromatherapy, light therapy, cognitive training, are potentially modifiable and thus offer alternative opportunities
+for AD/ADRD prevention. Thus, the objective of this project is to develop translational informatics approaches to
+aggregate, standardize and discover the effects of drug and NPI candidates on AD/ADRD using multi-modal
+data resources (i.e., biomedical literature, EHR, clinical trials) followed by animal model validation. To achieve
+our goal, we propose the following aims: 1) constructing a comprehensive Pharmacological And Non-
+Pharmacological Interventions for Alzheimer's Disease Knowledge Graph (PANIA-KG) from biomedical literature
+and other knowledge bases; 2) detecting, understanding, and visualization of drug repurposing signals of PIs,
+NPIs, and their synergistical effects for AD/ADRD using the PANIA-KG; 3) re-ranking and validating individual
+and synergistical drug repurposing signals using multimodal data sources and animal models. The successful
+completion of this project will deliver a comprehensive NPI knowledge graph, novel informatics approaches,
+ranked list of drug and NPI candidates, and validated synergistic intervention using multi-modal data sources.
+The generated approaches, PANIA-KG and ranked lists can further our clinical investigations and clinical trial
+design which focuses on synergistic effects of drug and NPIs for AD/ADRD.","762782",
+"No NIH Category available","5&apos;-AMP-activated protein kinase;Accidents;Adult;Affect;Antidiabetic Drugs;Biguanides;Biocompatible Materials;Bioenergetics;Biological;Biology;Biopolymers;Calcium;Cell Survival;Cells;Cementation;Chemicals;Chitosan;Clinical;Complex;Data;Dental;Dental Care;Dental Cements;Dental Materials;Dental Pulp;Dental Pulp Capping;Dental Pulp Exposure;Dental caries;Dentin;Dentin Formation;Dentinogenesis;Dentistry;Development;Differentiation Antigens;Drug usage;Elasticity;Excision;FDA approved;Formulation;Gene Expression;Gene Family;Glucose;Goals;Hardness;Human;Hydroxyapatites;Hypoglycemic Agents;Impairment;In Vitro;Inflammatory Response;Injury;Ions;Legal patent;Mechanics;Metformin;Minerals;Modeling;Modulus;Molecular Target;Natural regeneration;Odontoblasts;Oral;Oral health;Organic Cation Transporter;Organic Cation Transporter 1;Outcome;Oxides;Pathway interactions;Persons;Pharmaceutical Preparations;Plant Resins;Positioning Attribute;Procedures;Property;Rattus;Reporting;Signal Pathway;Signal Transduction;Silicates;Source;Stress;Structure;Technology Transfer;Testing;Therapeutic;Thick;Time;Tissue Engineering;Tissues;Tooth structure;Translating;Traumatic injury;United States;Up-Regulation;Work;biomaterial compatibility;calcium phosphate;cost;cost effective;diabetic patient;genetic approach;hydrophilicity;improved;in vivo;innovation;insight;mechanical properties;mineralization;nanoparticle;novel;permanent tooth;preservation;prevent;procedure cost;public health relevance;regenerative;repaired;response;restorative material;solute;stem cells;therapy outcome;uptake","Targeting the AMPK pathway to enhance dentin repair with novel metformin-releasing dental cements","NARRATIVE
+Public Health Relevance: Dental pulp exposure in permanent adult teeth following various dental procedures or
+traumatic injuries may impair the dentin-pulp complex. Long setting and costly inorganic hydraulic calcium-silicate
+cements are commonly used to stimulate dentin repair and preserve pulp vitality. In this proposal, we seek to gain new
+insight into the development of a novel, improved and substantially more affordable metformin-containing bioactive
+cement to potentiate reparative dentinogenesis by targeting the AMPK signaling pathway in dental pulp stem cells.","NIDCR","10657804","6/21/2023 12:00:00 AM","PA-20-195","5R21DE032139-02","5","R21","DE","032139","02"," ","MELILLO, AMANDA A","7/1/2022 12:00:00 AM","6/30/2024 12:00:00 AM","Oral, Dental and Craniofacial Sciences Study Section[ODCS]"," ","9017011","SCHNEIDER, ABRAHAM ","XU, HUAKUN ","07","RADIATION-DIAGNOSTIC/ONCOLOGY","188435911","Z9CRZKD42ZT1","188435911","Z9CRZKD42ZT1","US","39.292248","-76.625629","820104","UNIVERSITY OF MARYLAND BALTIMORE","BALTIMORE","MD","SCHOOLS OF MEDICINE","212011508","UNITED STATES","N","7/1/2023 12:00:00 AM","6/30/2024 12:00:00 AM","121","Non-SBIR/STTR","2023","231750"," ","NIDCR","150000","81750"," ","PROJECT SUMMARY
+The normal structure and function of the dentin-pulp complex in adult permanent teeth can be affected by the exposure of
+a vital pulp following deep caries removal, traumatic injuries, or accidental restorative procedures. To stimulate dentin
+repair, preserve pulp vitality and avoid more invasive and costly procedures, vital pulp therapy relies on direct pulp-capping
+agents. These are mainly composed of inorganic hydraulic calcium-silicate cements, where mineral trioxide aggregate
+(MTA) is often considered the gold standard. Despite its well-accepted therapeutic value, it remains unclear which specific
+underlying signaling mechanisms orchestrate reparative dentinogenesis through the differentiation of dental pulp stem cells
+(DPSCs) into odontoblast-like cells. Also, common drawbacks associated with MTA include long setting times and high
+cost. Thus, enhancing dentin repair through novel, substantially more affordable bioactive formulations with improved
+physico-mechanical properties that molecularly target the pulp cells responsible for its synthesis could translate into truly
+beneficial and highly cost-effective therapeutic outcomes. We provide the first evidence supporting the development of a
+novel biomaterial formulated with calcium phosphate cement/chitosan (CPCC) and metformin (Met), that triggered a
+significant upregulation in the expression of odontoblastic differentiation markers and mineral synthesis in DPSCs. Met is
+a widely used, safe and low-cost oral anti-diabetic biguanide drug, and potent activator of the AMP-activated protein kinase
+(AMPK) signaling pathway, a master sensing mechanism of cellular bioenergetics. These promising preliminary data imply
+that Met could be safely repurposed within locally delivered formulations to enhance reparative dentin by molecularly
+targeting AMPK. In the proposed studies, we seek to maximize dentin repair by developing a new Met-CPCC pulp-capping
+agent with similar mechanical and flowability properties like MTA but with a substantial, several folds of reduction in
+setting time and cost. This innovative formulation relies on Met to induce AMPK activation and odontoblastic differentiation
+in DPSCs, and CPCC to provide the alkaline, ionic building blocks for hydroxyapatite formation. To that end, we will test
+the central hypothesis that dentin repair following vital pulp exposure is significantly potentiated by a Met-releasing CPCC
+bioactive pulp-capping agent through AMPK activation and delivery of mineralized tissue-building ions. In vitro and in
+vivo studies will expand our initial findings through two specific aims. Aim 1 will test the hypothesis that in DPSCs, a novel
+Met-CPCC pulp-capping agent induces odontogenic responses in an AMPK-dependent manner. In Aim 2, we will test the
+hypothesis that Met-CPCC pulp-capping agent significantly enhances dentin repair and increases the hardness and elastic
+modulus of new dentin in a rat dentin injury model with pulp exposure in vivo. The long-term goal of this proposal is to
+potentiate reparative dentinogenesis with novel biologically active Met-containing dental materials targeting AMPK
+activation, yielding new mechanisms and improved treatments that are widely applicable to restorative and regenerative
+dentistry.","231750",
+"No NIH Category available","Active Learning;Address;Affect;Algorithms;Alzheimer&apos;s Disease;Alzheimer&apos;s disease related dementia;American;Artificial Intelligence;Cause of Death;Clinical Research;Communities;Complex;Data;Data Analyses;Deposition;Disease;Drug Exposure;Electronic Health Record;Engineering;Epidemiologist;Etiology;Evaluation;FAIR principles;Goals;Healthcare;Incentives;Incidence;Informatics;Investigation;Joints;Knowledge;Literature;Long-Term Care;Medical;Methods;Modernization;Observational Study;Ontology;Outcome;Pathogenesis;Patients;Phenotype;Prevention;Probability;Protocols documentation;Publication Bias;Reproducibility;Research;Risk Factors;Sampling;Source;Standardization;Statistical Models;Terminology;Translational Research;care systems;cohort;community engagement;data management;effective therapy;hospital services;improved;insight;knowledge base;novel;payment;phenotypic data;phenotyping algorithm;prevent;repository;risk stratification;social;tool;trait;treatment response;web portal","TRiPOD: Toward Reusable Phenotypes in Observational Data for AD/ADRD - managing definitions and correcting bias","Project Narrative
+Observational data, including electronic health records (EHR) and claims data, provide
+tremendous opportunities for clinical and translational research for Alzheimer's Disease and
+Alzheimer's Disease Related Dementia (AD/ADRD). A key challenge is observational AD/ADRD
+research is to better manage and analyze phenotypic data. This project aims at developing novel
+informatics methods and tools to manage phenotype definitions and correct bias associated with
+phenotyping errors on local data, thus enhancing the reproducibility and quality of observational
+studies on AD/ADRD.","NIA","10642888","6/21/2023 12:00:00 AM","PA-20-185","5R01AG073435-03","5","R01","AG","073435","03"," ","SALIVE, MARCEL","9/15/2021 12:00:00 AM","5/31/2026 12:00:00 AM","Clinical Data Management and Analysis Study Section[CDMA]"," ","11851698","CHEN, YONG ","XU, HUA ","03","BIOSTATISTICS & OTHER MATH SCI","042250712","GM1XX56LEP58","042250712","GM1XX56LEP58","US","39.953462","-75.193983","6463801","UNIVERSITY OF PENNSYLVANIA","PHILADELPHIA","PA","SCHOOLS OF MEDICINE","191046205","UNITED STATES","N","6/1/2023 12:00:00 AM","5/31/2024 12:00:00 AM","866","Non-SBIR/STTR","2023","784272"," ","NIA","632629","151643"," ","Project Summary
+Large observational data such as electronic health records (EHRs) and medical claims have
+become an enabling source for facilitating clinical and translational research including Alzheimer's
+Disease and Alzheimer's Disease Related Dementia (AD/ADRD). One major challenge for
+conducting observational AD/ADRD studies is about phenotyping – there is a lack of a centralized
+repository for hosting and standardizing phenotype definitions in AD/ADRD research and few
+methods have been developed to address bias associated with phenotyping errors in observation
+data. Therefore, the overarching goal of this proposal is to fully develop a joint effort between
+medical informaticians, statisticians, clinicians, and epidemiologists with a focus on building a
+rigorous set of methods and tools for managing phenotype definitions and for correcting bias in
+observational data analysis, through modern knowledge engineering and data-driven statistical
+modeling. To achieve that goal, we propose three specific aims in this study: (1) Aim 1 - Collect,
+normalize, and share definitions of common phenotypes used in AD/ADRD observational
+research; (2) Aim 2 - Develop novel algorithms to correct bias associated with phenotyping errors
+when users apply existing phenotype definitions to local data; and (3) Aim 3 - Validate, refine, and
+disseminate proposed methods and tools by demonstration studies and community engagement.
+We believe informatics methods and tools proposed here will improve current practice on
+phenotypic data management and analysis, thus enhancing the reproducibility and quality of
+observational studies on AD/ADRD.","784272",
+"No NIH Category available","Adverse event;Algorithms;Cations;Chronic;Clinical;Clinical Investigator;Clinical Research;Computer software;Data;Data Science;Data Set;EHR research;Electronic Health Record;Engineering;Evaluation;Failure;Feasibility Studies;Goals;Health;Health system;Individual;Informatics;Information Retrieval;Investigation;Joints;Knowledge;Knowledge Discovery;Measurement;Medical;Methodology;Methods;Modeling;Modernization;Non-Insulin-Dependent Diabetes Mellitus;Outcome;Paper;Patients;Pennsylvania;Phenotype;Pilot Projects;Population;Procedures;Publishing;Reproducibility;Reproducibility of Results;Research;Research Personnel;Risk Factors;Sampling Studies;Statistical Models;System;Texas;Translational Research;Universities;Validation;cohort;health data;high standard;improved;multiple datasets;novel;phenotyping algorithm;response;software development;tool","PheBC: bias correction methods for EHR derived phenotype","Project Narrative
+Data derived from electronic health records (EHR) provide tremendous opportunities for clinical
+and translational research. A key challenge remains that the reproducibility of findings across
+studies is limited, which raised a fundamental concern on the value of these researching
+findings. The overarching goal of this proposal is to develop a rigorous bias correction tool
+through modern knowledge engineering and data-driven statistical modeling, for enhancing the
+reproducibility of EHR-based clinical findings.","NLM","10624825","5/12/2023 12:00:00 AM","PAR-18-896","5R01LM013519-03","5","R01","LM","013519","03"," ","WANG, YANLI","9/1/2021 12:00:00 AM","5/31/2025 12:00:00 AM","ZLM1-YW-C(01)"," ","11851698","CHEN, YONG ","XU, HUA ","03","BIOSTATISTICS & OTHER MATH SCI","042250712","GM1XX56LEP58","042250712","GM1XX56LEP58","US","39.953462","-75.193983","6463801","UNIVERSITY OF PENNSYLVANIA","PHILADELPHIA","PA","SCHOOLS OF MEDICINE","191046205","UNITED STATES","N","6/1/2023 12:00:00 AM","5/31/2024 12:00:00 AM","879","Non-SBIR/STTR","2023","342230"," ","NLM","267436","74794"," ","Project Summary
+ In response to the (PAR-18-896), the overarching goal of this proposal is to fully develop
+a joint effort between statisticians, medical informaticians, clinicians with a focus on developing
+a rigorous bias correction framework through modern knowledge engineering and data-driven
+statistical modeling, for improving the unbiasedness and reproducibility of health system data
+driven research.
+ In this proposal, we will focus on: (1) Develop a novel prior-knowledge-guided integrated
+likelihood approach to enable bias correction by incorporating prior phenotyping accuracy. (2)
+Develop methods and algorithms to account for EHR phenotyping errors in both outcomes and
+predictors. And (3) Validation, Application and Software development. We will use the proposed
+bias correction methods to several EHR datasets to replicate existing findings and investigate
+new hypothesis in multiple datasets at University of Texas and University of Pennsylvania. We
+will also develop software for the proposed methods to facilitate ongoing EHR-based clinical
+studies.","342230",
+"No NIH Category available","Address;Adult;Affect;Age;Age of Onset;Age-associated memory impairment;Aging;Algorithms;Alzheimer&apos;s disease related dementia;American;Behavioral;Boston;California;Characteristics;Clinical;Cognition;Cognitive;Complex;Computing Methodologies;Confounding Factors (Epidemiology);Data;Dementia;Discipline;Education;Elderly;Electronic Health Record;Electronics;Environment;Face;Future;Generations;Geography;Health;Health Care Costs;Health Sciences;Health Services Research;Health system;Healthcare Systems;Immigrant;Impaired cognition;Individual;Informatics;Institution;Intervention;Investigation;Knowledge;Language;Life;Life Style;Longitudinal Surveys;Machine Learning;Maps;Measures;Methods;Morbidity - disease rate;Natural Language Processing;Nature;Needs Assessment;Neurologic;Neurology;Neuropsychology;Outcome;Pathway interactions;Patient Recruitments;Patients;Phenotype;Physical activity;Population;Population Heterogeneity;Prevention;Process;Prospective Studies;Prospective, cohort study;Psychiatry;Psychology;Quality of life;Registries;Reproducibility;Research;Research Support;Role;Sample Size;Site;Social support;Standardization;Stress;Surveys;Technology;Testing;Texas;Text;Time;Translating;US State;Universities;Work;age related;age related cognitive change;age related neurodegeneration;aging population;bilingualism;brain health;case finding;cognitive change;cognitive enhancement;cognitive function;cognitive process;cognitive reserve;cohort;comorbidity;coping;cost;design;disability;disorder prevention;electronic health record system;electronic structure;ethnic diversity;experience;health care delivery;improved;innovation;insight;instrument;interdisciplinary approach;machine learning algorithm;neural;novel;novel therapeutic intervention;observational cohort study;primary outcome;protective factors;psychologic;racial diversity;recruit;resilience;screening;social;social health determinants;statistics;theories;time use;tool","Leveraging Longitudinal Data and Informatics Technology to Understand the Role of Bilingualism in Cognitive Resilience, Aging and Dementia","Narrative
+ With a growing aging population worldwide, Alzheimer’s Disease and Related Dementias
+(ADRD) is expected to affect nearly 14 million Americans alone by 2060, contributing to long-term
+disability, reduced quality of life, and substantial healthcare costs. We will utilize large longitudinal
+electronic health record (EHR) data from three prominent academic centers and advanced
+informatics technology to thoroughly investigate the role of bilingualism on age-related cognitive
+health outcomes. We will develop informatics methods to assist with extensive screening,
+recruitment, and in-depth analysis of phenotypic information collected from both patient surveys
+and EHR data, while exploring novel pathways by which bilingualism influences cognitive reserve,
+or the ability to cope with neurological stress, in elderly bilingual and monolingual adults.","NIA","10583170","2/9/2023 12:00:00 AM","RFA-AG-23-001","1R01AG080429-01","1","R01","AG","080429","01"," ","HARRELL, ERIN","2/15/2023 12:00:00 AM","1/31/2028 12:00:00 AM","ZAG1-ZIJ-D(O1)"," ","9708328","ZHOU, LI ","XU, HUA ","07","Unavailable","030811269","QN6MS4VN7BD1","030811269","QN6MS4VN7BD1","US","42.336107","-71.107481","1080401","BRIGHAM AND WOMEN'S HOSPITAL","BOSTON","MA","Independent Hospitals","021156110","UNITED STATES","N","2/15/2023 12:00:00 AM","1/31/2024 12:00:00 AM","866","Non-SBIR/STTR","2023","1411758"," ","NIA","1110606","301152"," ","Project Summary
+Alzheimer’s Disease and Related Dementias (ADRD) along with other age-related
+neurodegenerative diseases contribute to significant morbidity and costs for the aging population
+worldwide. Advances in this field have uncovered that bilingualism is a protective factor that
+delays onset of ADRD and may enhance cognitive reserve. Still, little is clearly known about the
+direct impact of bilingualism on cognitive reserve and ADRD progression; multiple, entangled
+confounding variables, such as lifestyle and psychological resilience, complicate the relationship
+between bilingualism and cognition and warrant further investigation. Other major shortcomings
+in previous studies include small sample size, lack of population diversity and insufficient data on
+relevant covariates. We aim to address these critical gaps via the following specific aims.
+In Aim 1, we will leverage advanced informatics and longitudinal electronic health records (EHRs)
+from millions of patients across three geographically and demographically diverse sites (i.e., MGB
+[Boston, MA], UTHealth [Houston, TX], and UC Davis [Sacramento, CA]). We will develop robust
+algorithms to identify potential monolingual and bilingual cohorts and their phenotypes. We will
+disseminate reproducible informatics methods to support research cross-institutionally.
+In Aim 2, we will conduct a prospective cohort study to evaluate the dynamic cognitive changes
+in monolingual and bilingual older adults. We will explore potential pathways by which bilingualism
+impacts cognitive decline over time using comprehensive instruments and surveys to repeatedly
+measure cognitive resilience, cognitive reserve, and related factors, including social support,
+psychological resilience, and physical activity.
+In Aim 3, we will develop and validate machine learning algorithms to identify onset of age-related
+cognitive decline and dementia using EHR data. We will apply the validated language classifier
+for all participating EHR systems to examine the role of bilingualism in relation to the progression
+of cognitive decline and the effect of other factors recorded in EHR data.
+By integrating multiple disciplines to explore the influence of bilingualism on cognitive reserve,
+this proposed design will address major gaps and challenges in this field. Such research has the
+potential to transform the current understanding of neural and behavioral pathways in relation to
+language, culture, and environment. Furthermore, the knowledge gained may translate to
+improvements in existing interventions and novel therapeutic approaches for ADRD.","1411758",
+"Biotechnology; Dental/Oral and Craniofacial Disease; Diabetes; Regenerative Medicine; Stem Cell Research; Stem Cell Research - Nonembryonic - Human; Transplantation","5&apos;-AMP-activated protein kinase;Antidiabetic Drugs;Area;Autologous;Biguanides;Bioenergetics;Biological;Biopolymers;Blood Glucose;Bone Growth;Bone Regeneration;Bone Tissue;Bone Transplantation;Calvaria;Cell Survival;Cells;Chemosensitization;Chitosan;Clinical;Conditioned Culture Media;Coupling;Data;Defect;Dental Models;Dental Pulp;Deposition;Development;Drug Costs;Drug usage;Endothelial Cells;Enhancers;Exposure to;FDA approved;Formulation;Goals;Growth Factor;Hepatocyte;Hypoglycemic Agents;Hypoxia;Implant;In Vitro;Infection;Lead;Malignant Neoplasms;Mediating;Mediator of activation protein;Mesenchymal Differentiation;Mesenchymal Stem Cell Transplantation;Mesenchymal Stem Cells;Metformin;Minerals;Modeling;Nanostructures;Natural regeneration;Oral;Orthopedic Surgery;Orthopedics;Osteogenesis;Patients;Pharmaceutical Preparations;Pharmacology;Phosphotransferases;Play;Protein Kinase;Rattus;Reporting;Research;STK11 gene;Signal Pathway;Signal Transduction;Source;Surgeon;Testing;Therapeutic;Time;Tissue Engineering;Tissues;Trauma;Vascular Endothelial Growth Factors;Work;angiogenesis;base;bone;calcium phosphate;cost;cost effective;craniofacial;craniofacial bone;dental transplantation;diabetic;diabetic patient;extracellular;glucose production;improved;in vivo;insight;maxillofacial;multidisciplinary;neovascularization;novel;oral surgery specialty;osteoblast differentiation;osteogenic;postnatal;public health relevance;response;scaffold;skeletal;skeletal regeneration;stem cell differentiation;stem cells;success;upstream kinase","A novel metformin-nanomineral scaffold as enhancer of craniofacial bone regeneration and angiogenesis via dental pulp stem cells","NARRATIVE
+Public Health Relevance: Regeneration of large, critical-sized craniofacial bone defects remains a major clinical
+challenge in oral/maxillofacial and orthopedic surgery. Studies in this proposal aimed at gaining valuable basic and
+translationally relevant insight into the osteogenic/angiogenic effects of the low-cost, anti-diabetic drug metformin as
+repurposed within a bone mineral mimicking, nanostructured scaffold to locally enhance dental pulp stem cell (DPSC)-
+based craniofacial bone regeneration. We anticipate that results from these studies will lead to the development of novel,
+cost-effective tissue engineering platforms that combine DPSCs, or other stem cells, with locally delivered metformin
+to treat skeletal defects associated with trauma, infection, cancer or congenital conditions.","NIDCR","10256799","8/12/2021 12:00:00 AM","PA-19-053","5R21DE029611-02","5","R21","DE","029611","02"," ","MELILLO, AMANDA A","9/8/2020 12:00:00 AM","8/31/2024 12:00:00 AM","Musculoskeletal Tissue Engineering Study Section[MTE]"," ","9017011","SCHNEIDER, ABRAHAM ","XU, HUAKUN ","07","DENTISTRY","188435911","Z9CRZKD42ZT1","188435911","Z9CRZKD42ZT1","US","39.292248","-76.625629","820104","UNIVERSITY OF MARYLAND BALTIMORE","BALTIMORE","MD","SCHOOLS OF DENTISTRY/ORAL HYGN","212011508","UNITED STATES","N","9/1/2021 12:00:00 AM","8/31/2024 12:00:00 AM","121","Non-SBIR/STTR","2021","231750"," ","NIDCR","150000","81750"," ","PROJECT SUMMARY
+The long-term goal of this proposal is to develop widely applicable, cost-effective bone tissue engineering platforms that
+combine metformin with stem cells to regenerate large, critical-sized oral and craniofacial skeletal defects. Although tissue
+engineering using stem cells, scaffolds and growth factors offers an attractive, less invasive alternative to autologous bone
+grafts, its success highly depends on the proper adaptation of cells to a local hypoxic microenvironment, and reestablishment
+of a functional microvasculature. It is well established that vascular endothelial growth factor (VEGF) is a key mediator of
+osteogenic/angiogenic coupling in bone regeneration. Thus, developing novel and affordable stem cell-based tissue engineering
+strategies that potentiate VEGF-mediated angiogenesis may significantly enhance skeletal regeneration. Our group and others
+recently reported that metformin, a low-cost drug used by millions of diabetics worldwide induces the osteoblastic
+differentiation of stem cells derived from various tissue sources. This suggests that metformin could be repurposed in a local
+delivery formulation to potentiate stem cell-based bone regeneration. We have advanced this concept by formulating a calcium
+phosphate cement (CPC) containing metformin that when released in culture upregulated the expression of osteogenic
+markers and increased mineralized extracellular deposits in dental pulp stem cells (DPSCs), an easily accessible and
+inexhaustible source of postnatal stem cells. Intriguingly, we have found that metformin also induces a significant increase in
+VEGF secretion that is further amplified in DPSCs exposed to hypoxic conditions. The osteogenic action of metformin has
+been associated with the activation of the AMP-activated protein kinase (AMPK) signaling pathway, a master sensing
+mechanism of cellular bioenergetics. While in hepatocytes, metformin reduces high blood glucose production by activating
+AMPK via the upstream kinase liver kinase B1 (LKB1), a mechanistic, translationally relevant question that still remains
+elusive is whether DPSCs rely mainly on LKB1 to enhance bone formation and neovascularization in response to locally
+delivered metformin. We will test the central hypothesis that DPSC-based craniofacial bone regeneration and
+neovascularization in response to locally delivered metformin is enhanced by AMPK activation through a functional,
+catalytically active LKB1. In vitro and in vivo studies will expand our results through two specific aims. Aim 1 will
+determine whether in DPSCs, metformin released from CPC scaffolds induces osteogenic and pro-angiogenic responses in
+an LKB1/AMPK-dependent manner. Aim 2 will test the hypothesis that in DPSCs, a functional LKB1/AMPK cellular
+response is necessary to enhance craniofacial bone regeneration and neovascularization in response to locally delivered
+metformin released from CPC scaffolds. We anticipate our results will yield new, valuable basic and translational
+information that will lead to cost-effective tissue engineering platforms where metformin-loaded scaffolds in combination
+with stem cells will enhance craniofacial and orthopedic bone regeneration.","231750",
+"Acquired Cognitive Impairment; Aging; Alzheimer's Disease; Alzheimer's Disease including Alzheimer's Disease Related Dementias (AD/ADRD); Brain Disorders; Data Science; Dementia; Machine Learning and Artificial Intelligence; Networking and Information Technology R&D (NITRD); Neurodegenerative; Neurosciences","Affect;Alzheimer&apos;s Disease;Alzheimer&apos;s disease related dementia;Alzheimer&apos;s disease risk;American;Cardiovascular Diseases;Cause of Death;Clinical;Clinical Data;Clinical Research;Communities;Computerized Medical Record;Consumption;Data;Data Science;Data Sources;Data Store;Databases;Disease;Electronic Health Record;Electronic Medical Records and Genomics Network;Elements;Genomics;Goals;Health Care Costs;Hospice Care;Informatics;Information Retrieval;Long-Term Care;Manuals;Methods;National Human Genome Research Institute;Natural Language Processing;Natural Language Processing pipeline;Observational Study;Onset of illness;Ontology;Patient-Focused Outcomes;Patients;Population;Prevalence;Procedures;Prognosis;Records;Reporting;Research;Research Institute;Resources;Risk Factors;Severities;System;Technology;Time;Translational Research;Validation;Work;base;cohort;disease diagnosis;effective therapy;health data;improved;informatics tool;information model;network informatics;novel;predictive modeling;programs;repository;risk prediction;risk stratification;tool;treatment response","Facilitate Observational Studies of Alzheimer's Disease and Alzheimer's Disease-Related Dementias Using Ontology and Natural Language Processing","PROJECT NARRATIVE
+In this project, we propose to develop novel informatics approaches to automatically extract detailed clinical
+information about Alzheimer's disease (AD) and Alzheimer's disease-related dementias (ADRD) patients (e.g.,
+disease diagnosis, prognosis, treatment, and response) from heterogeneous electronic health records
+databases. This technology will allow more efficient information extraction from patients' records, thus
+facilitating clinical research on AD/ADRD.","NIA","10235325","4/29/2021 12:00:00 AM","PA-20-185","1RF1AG072799-01","1","RF1","AG","072799","01"," ","TREVINO, MELISSA","5/1/2021 12:00:00 AM","4/30/2024 12:00:00 AM","Special Emphasis Panel[ZRG1-HDM-H(02)]"," ","9603016","XU, HUA ","LIU, HONGFANG ; TAO, CUI ","18","NONE","800771594","ZUFBNVZ587D4","800771594","ZUFBNVZ587D4","US","29.703025","-95.403303","578417","UNIVERSITY OF TEXAS HLTH SCI CTR HOUSTON","HOUSTON","TX","SCH ALLIED HEALTH PROFESSIONS","770305400","UNITED STATES","N","5/1/2021 12:00:00 AM","4/30/2024 12:00:00 AM","866","Non-SBIR/STTR","2021","2371994"," ","NIA","1853997","517997"," ","Project Summary
+As the 6th leading cause of death in the US, Alzheimer's disease (AD) and Alzheimer's disease-related
+dementias (ADRD) affect about 5.7 million Americans. However, up until now, our understanding of risk factors
+of AD/ADRD is still limited and our efforts on developing effective treatments for AD/ADRD have been greatly
+disappointing. Therefore, there is an urgent need to develop new methods to conduct AD/ADRD research
+more efficiently. One of the potential approaches is to leverage large, longitudinal, observational clinical data
+accumulated in electronic health records (EHRs). Nevertheless, current uses of EHRs for AD/ADRD research
+is very limited, often requiring manual data extraction and normalization (i.e., manual chart review), which is
+labor-intensive and time-consuming. Therefore, in this study, we plan to develop novel ontology and natural
+language processing (NLP) based informatics methods and tools to automatically extract and normalize
+AD/ADRD-related clinical data in EHRs, thus facilitating efficient AD/ADRD observational studies using EHRs.
+We propose the following three specific aims to achieve this goal: 1) Build an information model for EHR-based
+AD/ADRD research using a formal ontology representation approach; and 2) Extract and normalize AD/ADRD
+information in clinical documents using NLP technologies; and 3) Evaluate developed informatics methods and
+tools through demonstration studies and disseminate them to support observational AD/ADRD research.","2371994",

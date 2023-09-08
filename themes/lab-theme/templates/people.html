@@ -1,0 +1,57 @@
+<h2 class="my-4">
+    Faculty
+</h2>
+<div class="row">
+    {% for p in PEOPLE %}
+    {% if p['track'] == 'faculty' %}
+    <div class="col-md-6">
+        {{ p|person2html(TEMPLATE_PERSON) }}
+    </div>
+    {% endif %}
+    {% endfor %}
+</div>
+
+
+
+<h2 class="my-4">
+    Staff
+</h2>
+<div class="row">
+    {% for p in PEOPLE %}
+    {% if p['track'] == 'staff' %}
+    <div class="col-md-6">
+        {{ p|person2html(TEMPLATE_PERSON) }}
+    </div>
+    {% endif %}
+    {% endfor %}
+</div>
+
+
+
+<h2 class="my-4">
+    Postdocs
+</h2>
+<div class="row">
+    {% for p in PEOPLE %}
+    {% if p['track'] == 'postdoc' %}
+    <div class="col-md-6">
+        {{ p|person2html(TEMPLATE_PERSON) }}
+    </div>
+    {% endif %}
+    {% endfor %}
+</div>
+
+
+
+<h2 class="my-4">
+    Students
+</h2>
+<div class="row">
+    {% for p in PEOPLE %}
+    {% if p['track'] == 'intern' %}
+    <div class="col-md-6">
+        {{ p|person2html(TEMPLATE_PERSON) }}
+    </div>
+    {% endif %}
+    {% endfor %}
+</div>

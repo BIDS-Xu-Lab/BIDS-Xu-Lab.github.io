@@ -1,0 +1,94 @@
+{% extends "base.html" %}
+{% block title %}
+    {{ SITENAME }}
+{% endblock title %}
+
+
+{% block page %}
+
+<!-- Header-->
+<header id="hp_header" class="bg-lab text-white">
+    <div class="container px-4 text-center">
+        <h1 class="fw-bolder hp-header-text">Welcome to {{ SITENAME }}</h1>
+        <p class="lead hp-header-text">Where NLP Meets Biomedical Discovery</p>
+    </div>
+</header>
+
+<!-- About section-->
+<section id="about">
+    <div class="container px-4">
+        <div class="row gx-4 justify-content-center">
+            <div class="col-md-4">
+                <img class="photo" src="../{{ THEME_STATIC_DIR }}/img/building.jpg" alt="Office Building">
+            </div>
+            <div class="col-md-8">
+                <h2>About Us</h2>
+                <p class="lead">
+                    The {{ SITENAME }} at the Section of Biomedical Informatics and Data Science to facilitate biomedical discovery by developing, evaluating, and applying novel informatics methods and software to extract, compile and analyze heterogeneous biomedical data. Led by <a href="https://medicine.yale.edu/profile/hua-xu">Dr. Hua Xu</a>, the team of faculty, staff, postdocs and students focus on cutting-edge NLP techniques. The work encompasses basic research in clinical NLP involving to large language models and their applications for specific biomedical problems. 
+                </p>
+
+                <a class="btn btn-light" href="./people.html">People</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- About section-->
+<section class="bg-light" id="services">
+    <div class="container px-4">
+        <div class="row gx-4 justify-content-center">
+            <div class="col-md-4">
+                <h2>Research</h2>
+                <p class="lead">
+                    We are at the forefront of groundbreaking advancements in NLP techniques and their applications in the domain of clinical and medical data mining. Our dedicated team of researchers and developers is committed to pushing the boundaries of technology to improve healthcare outcomes and drive innovation in specific disease domains.
+                </p>
+
+            </div>
+
+
+            <div class="col-md-4">
+                <h2>Our Vision</h2>
+                <p class="lead">
+                    Our mission is to leverage the power of NLP and data-driven approaches to revolutionize healthcare. We collaborate with medical professionals, researchers, and industry partners to address critical challenges in specific disease domains, ultimately improving patient care and outcomes.
+                </p>
+
+            </div>
+
+            <div class="col-md-4">
+                <h2>Our Expertise</h2>
+                <p class="lead">
+                    <ul>
+                        <li>
+                            <b>Cutting-Edge Language Models (LLMs)</b>: We specialize in harnessing the power of state-of-the-art Language Models to extract valuable insights from vast amounts of unstructured clinical and medical data. 
+                        </li>
+                        <li>
+                            <b>Clinical and Medical Data Mining</b>: Our expertise in data mining techniques allows us to uncover hidden patterns, trends, and knowledge within complex healthcare datasets. 
+                        </li>
+                        <li>
+                            <b>System Development</b>: We pride ourselves on developing robust and user-friendly systems that bridge the gap between advanced NLP technologies and real-world healthcare problems. 
+                        </li>
+                    </ul>
+                </p>
+            </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Contact section-->
+<section id="contact">
+    <div class="container px-4">
+        <div class="row gx-4 justify-content-center">
+            <div class="col-lg-12">
+                <h2>Contact us</h2>
+                <p class="lead">
+                    Our lab is well-funded with current funding from NIH. Members of the lab are also extensively involved in collaborative projects with researchers both nationally and at the international level. Graduate students, postdocs and other students (such as masters students, interns etc) as well as visiting scientists form an integral part of the team with their training being a continuing focus in the group in addition to research work.
+                    <br>
+                    Discover our ongoing projects, publications, and the impact of our research in the field of NLP and healthcare. Join us on our journey to transform the way we understand and interact with medical data. Have questions or want to learn more about our lab's research and expertise? Please don't hesitate to reach out. We're here to engage with the research community and those interested in our work.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+{% endblock page %}

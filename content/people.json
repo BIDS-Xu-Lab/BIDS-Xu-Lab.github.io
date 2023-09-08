@@ -1,0 +1,213 @@
+{
+    "people": [
+    {
+        "uid": "hua-xu",
+        "track": "faculty",
+        "full_name": "Hua Xu, PhD",
+        "title": "Robert T. McCluskey Professor of Biomedical Informatics and Data Science; Vice Chair for Research and Development, Section of Biomedical Informatics and Data Science; Assistant Dean for Biomedical Informatics, Yale School of Medicine",
+        "profile_photo": "p-hua.jpg",
+        "profile_url": "https://medicine.yale.edu/profile/hua-xu"
+    },
+    {
+        "uid": "na-hong",
+        "track": "faculty",
+        "full_name": "Na Hong, PhD",
+        "title": "Instructor of Biomedical Informatics and Data Science",
+        "profile_photo": "p-na.jpg",
+        "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/na-hong/"
+    },
+    {
+        "uid": "kalpana-raja",
+        "track": "faculty",
+        "full_name": "Kalpana Raja, PhD, MRSB, CSci",
+        "title": "Instructor of Biomedical Informatics and Data Science",
+        "profile_photo": "p-kalpana.jpg",
+        "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/kalpana-raja/"
+    },
+    {
+        "uid": "huan-he",
+        "track": "faculty",
+        "full_name": "Huan He, PhD",
+        "title": "Research Scientist in Biomedical Informatics and Data Science",
+        "profile_photo": "p-huan.jpg",
+        "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/huan-he/"
+    },
+    {
+        "uid": "qingyu-chen",
+        "track": "faculty",
+        "full_name": "Qingyu Chen, PhD",
+        "title": "Associate Research Scientist of Biomedical Informatics and Data Science",
+        "profile_photo": "p-qingyu.jpg",
+        "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/qingyu-chen/"
+    },
+    {
+        "uid": "fongci-lin",
+        "track": "faculty",
+        "full_name": "Fongci Lin, PhD",
+        "title": "Associate Research Scientist in Biomedical Informatics and Data Science",
+        "profile_photo": "p-fongci.jpg",
+        "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/fongci-lin/"
+    },
+
+    {
+        "uid": "vipina-keloth",
+        "track": "postdoc",
+        "full_name": "Vipina K. Keloth, PhD",
+        "title": "Postdoctoral Associate in Biomedical Informatics and Data Science",
+        "profile_photo": "p-vipina.jpg",
+        "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/vipina-kuttichikeloth/"
+    },
+    {
+        "uid": "xueqing-peng",
+        "track": "postdoc",
+        "full_name": "Xueqing Peng, PhD",
+        "title": "Postdoctoral Associate in Biomedical Informatics and Data Science",
+        "profile_photo": "p-xueqing.jpg",
+        "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/xueqing-peng/"
+    },
+    {
+        "uid": "qianqian-xie",
+        "track": "postdoc",
+        "full_name": "Qianqian Xie, PhD",
+        "title": "Postdoctoral Associate in Biomedical Informatics and Data Science",
+        "profile_photo": "p-qianqian.jpg",
+        "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/qianqian-xie/"
+    },
+    {
+        "uid": "jeffrey-zhang",
+        "track": "postdoc",
+        "full_name": "Jeffrey Zhang, PhD",
+        "title": "Postdoctoral Fellow in Biomedical Informatics and Data Science",
+        "profile_photo": "p-jeff.jpg",
+        "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/jeffrey-zhang/"
+    },
+
+    {
+        "uid": "ryan",
+        "track": "staff",
+        "full_name": "Ryan Denlinger, PhD",
+        "title": "Software Engineer",
+        "profile_photo": "p-ryan.jpg",
+        "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/ryan-denlinger/"
+    },
+    {
+        "uid": "chris",
+        "track": "staff",
+        "full_name": "Christopher Gilman",
+        "title": "Software Engineer",
+        "profile_photo": "p-christopher.jpg",
+        "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/christopher-gilman/"
+    },
+    {
+        "uid": "pritham-ham",
+        "track": "staff",
+        "full_name": "Pritham Ram",
+        "title": "Program Manager",
+        "profile_photo": "p-pritham.jpg",
+        "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/pritham-ram/"
+    },
+    {
+        "uid": "max-wibert",
+        "track": "intern",
+        "full_name": "Max Wibert",
+        "title": "Summer Intern",
+        "profile_photo": "p-max.jpg",
+        "profile_url": "https://www.linkedin.com/in/maxwell-wibert/"
+    },
+    {
+        "uid": "",
+        "track": "",
+        "full_name": "",
+        "title": "",
+        "profile_photo": "",
+        "profile_url": ""
+    },
+    {
+        "uid": "",
+        "track": "",
+        "full_name": "",
+        "title": "",
+        "profile_photo": "",
+        "profile_url": ""
+    },
+    {
+        "uid": "",
+        "track": "",
+        "full_name": "",
+        "title": "",
+        "profile_photo": "",
+        "profile_url": ""
+    },
+    {
+        "uid": "",
+        "track": "",
+        "full_name": "",
+        "title": "",
+        "profile_photo": "",
+        "profile_url": ""
+    },
+    {
+        "uid": "",
+        "track": "",
+        "full_name": "",
+        "title": "",
+        "profile_photo": "",
+        "profile_url": ""
+    },
+    {
+        "uid": "",
+        "track": "",
+        "full_name": "",
+        "title": "",
+        "profile_photo": "",
+        "profile_url": ""
+    },
+    {
+        "uid": "",
+        "track": "",
+        "full_name": "",
+        "title": "",
+        "profile_photo": "",
+        "profile_url": ""
+    },
+    {
+        "uid": "",
+        "track": "",
+        "full_name": "",
+        "title": "",
+        "profile_photo": "",
+        "profile_url": ""
+    },
+    {
+        "uid": "",
+        "track": "",
+        "full_name": "",
+        "title": "",
+        "profile_photo": "",
+        "profile_url": ""
+    },
+    {
+        "uid": "",
+        "track": "",
+        "full_name": "",
+        "title": "",
+        "profile_photo": "",
+        "profile_url": ""
+    },
+    {
+        "uid": "",
+        "track": "",
+        "full_name": "",
+        "title": "",
+        "profile_photo": "",
+        "profile_url": ""
+    },
+    {
+        "uid": "",
+        "track": "",
+        "full_name": "",
+        "title": "",
+        "profile_photo": "",
+        "profile_url": ""
+    }
+]}

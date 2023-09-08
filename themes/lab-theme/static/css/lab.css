@@ -1,0 +1,61 @@
+.bg-lab {
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+}
+.bg-page {
+    padding-top: 9.5rem;
+    padding-bottom: 6rem;
+}
+.photo {
+    width: 100%;
+}
+#hp_header {
+    display: flex;
+    align-items: center;
+}
+.hp-header-text {
+    text-shadow: 0 0 20px black;
+}
+footer{
+    background-color: #fff; /* Adjust the background color as needed */
+    /* box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.5); */
+    border-top: 1px solid #cccccc;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+.navbar-transparent {
+    background: transparent !important;
+    border-bottom: 1px solid transparent;
+}
+.navbar-transparent .nav-link {
+    color: white !important;
+    border-bottom: 2px solid transparent;
+}
+.navbar-transparent .nav-link:hover {
+    border-bottom: 2px solid white;
+}
+
+.navbar-scroll {
+    background: #ffffff !important;
+    border-bottom: 1px solid #dfdfdf;
+}
+.navbar-scroll .navbar-brand {
+    color: #000;
+}
+.navbar-scroll .nav-link {
+    color: rgb(0, 0, 0) !important;
+    border-bottom: 2px solid transparent;
+}
+.navbar-scroll .nav-link:hover {
+    color: black;
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+/* people page */
+.profile-photo {
+    /* width: 150px; */
+    width: 100%;
+    max-width: 300px;
+}

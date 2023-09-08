@@ -1,0 +1,33 @@
+
+- [R56NS129438](https://reporter.nih.gov/project-details/10889463) (9/1/2023 - 8/31/2024): Immune checkpoints in the CNS and HIV-associated neurocognitive disorder
+
+
+- [U24LM013755](https://reporter.nih.gov/project-details/10854683) (12/21/2020 - 11/30/2024): RADx-Rad Discoveries & Data: Consortium Coordination Center Program Organization
+
+
+- [R01LM013519](https://reporter.nih.gov/project-details/10839649) (9/1/2021 - 5/31/2025): PheBC: bias correction methods for EHR derived phenotype
+
+
+- [R01MH133474](https://reporter.nih.gov/project-details/10700531) (2/16/2023 - 1/31/2028): Early prevention interventions towards ART-free pediatric HIV remission
+
+
+- [U24MH130988](https://reporter.nih.gov/project-details/10695226) (9/1/2022 - 6/30/2027): Engagement and outreach to achieve a FAIR data ecosystem for the BICAN
+
+
+- [R01AG078154](https://reporter.nih.gov/project-details/10689949) (9/1/2022 - 5/31/2027): Detecting synergistic effects of pharmacological and non-pharmacological interventions for AD/ADRD
+
+
+- [R21DE032139](https://reporter.nih.gov/project-details/10657804) (7/1/2022 - 6/30/2024): Targeting the AMPK pathway to enhance dentin repair with novel metformin-releasing dental cements
+
+
+- [R01AG073435](https://reporter.nih.gov/project-details/10642888) (9/15/2021 - 5/31/2026): TRiPOD: Toward Reusable Phenotypes in Observational Data for AD/ADRD - managing definitions and correcting bias
+
+
+- [R01AG080429](https://reporter.nih.gov/project-details/10583170) (2/15/2023 - 1/31/2028): Leveraging Longitudinal Data and Informatics Technology to Understand the Role of Bilingualism in Cognitive Resilience, Aging and Dementia
+
+
+- [R21DE029611](https://reporter.nih.gov/project-details/10256799) (9/8/2020 - 8/31/2024): A novel metformin-nanomineral scaffold as enhancer of craniofacial bone regeneration and angiogenesis via dental pulp stem cells
+
+
+- [RF1AG072799](https://reporter.nih.gov/project-details/10235325) (5/1/2021 - 4/30/2024): Facilitate Observational Studies of Alzheimer's Disease and Alzheimer's Disease-Related Dementias Using Ontology and Natural Language Processing
+
