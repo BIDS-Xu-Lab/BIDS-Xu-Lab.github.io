@@ -43,6 +43,11 @@ footer{
 }
 .navbar-scroll .navbar-brand {
     color: #000;
+    border-bottom: 2px solid transparent;
+}
+.navbar-scroll .navbar-brand:hover {
+    color: #1f1f1f;
+    border-bottom: 2px solid rgb(0, 0, 0);
 }
 .navbar-scroll .nav-link {
     color: rgb(0, 0, 0) !important;
