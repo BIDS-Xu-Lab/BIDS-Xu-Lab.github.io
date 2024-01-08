@@ -3,7 +3,7 @@ Date: 2023-09-01
 Slug: grants
 Summary: Grants
 
-## Current and Previous Projects
+## Current
 
 - [U24LM013755](https://reporter.nih.gov/project-details/10854683) (12/21/2020 - 11/30/2024): RADx-Rad Discoveries & Data: Consortium Coordination Center Program Organization
 
@@ -24,6 +24,8 @@ Summary: Grants
 
 
 - [RF1AG072799](https://reporter.nih.gov/project-details/10235325) (5/1/2021 - 4/30/2024): Facilitate Observational Studies of Alzheimer's Disease and Alzheimer's Disease-Related Dementias Using Ontology and Natural Language Processing
+
+## Past 
 
 - [69357270](https://pscanner.ucsd.edu/) (10/01/2015 - 09/30/2018): pSCANNER (patient-centered SCAlable National Network for Effectiveness Research)
 

@@ -48,10 +48,17 @@
 </h2>
 <div class="row">
     {% for p in PEOPLE %}
-    {% if p['track'] == 'intern' %}
+    {% if p['track'] == 'intern' or p['track'] == 'student' %}
     <div class="col-md-6">
         {{ p|person2html(TEMPLATE_PERSON) }}
     </div>
     {% endif %}
     {% endfor %}
 </div>
+
+<hr>
+
+<h1 class="my-5">
+    Alumni
+</h1>
+

@@ -147,9 +147,17 @@
         "profile_url": "https://www.linkedin.com/in/maxwell-wibert/"
     },
     {
+        "uid": "yan-wang",
+        "track": "postdoc",
+        "full_name": "Yan Wang, PhD",
+        "title": "Postdoctoral Associate",
+        "profile_photo": "p-yanwang.jpg",
+        "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/yan-wang-yw937/"
+    },
+    {
         "uid": "",
         "track": "",
-        "full_name": "",
+        "full_name": "Yujia Zhou",
         "title": "",
         "profile_photo": "",
         "profile_url": ""
@@ -170,76 +178,85 @@
         "profile_photo": "",
         "profile_url": ""
     },
+
+
+
     {
-        "uid": "",
-        "track": "",
-        "full_name": "",
-        "title": "",
-        "profile_photo": "",
+        "uid": "phd-zehanli",
+        "track": "student",
+        "full_name": "Zehan Li",
+        "title": "PhD Student",
+        "profile_photo": "p-zehanli.jpg",
         "profile_url": ""
     },
     {
-        "uid": "",
-        "track": "",
-        "full_name": "",
-        "title": "",
-        "profile_photo": "",
+        "uid": "phd-yanhu",
+        "track": "student",
+        "full_name": "Yan Hu",
+        "title": "PhD Student",
+        "profile_photo": "p-yanhu.jpg",
         "profile_url": ""
     },
     {
-        "uid": "",
-        "track": "",
-        "full_name": "",
-        "title": "",
-        "profile_photo": "",
+        "uid": "phd-xuzuo",
+        "track": "student",
+        "full_name": "Xu Zuo",
+        "title": "PhD Student",
+        "profile_photo": "p-xuzuo.jpg",
+        "profile_url": ""
+    },
+
+
+
+
+
+
+    {
+        "uid": "cap23-zhiyuancao",
+        "track": "student",
+        "full_name": "Zhiyuan Cao",
+        "title": "Capstone Project Student",
+        "profile_photo": "p-zhiyuancao.jpg",
         "profile_url": ""
     },
     {
-        "uid": "",
-        "track": "",
-        "full_name": "",
-        "title": "",
-        "profile_photo": "",
+        "uid": "cap23-dingweizhan",
+        "track": "student",
+        "full_name": "Dingwei Zhan",
+        "title": "Capstone Project Student",
+        "profile_photo": "p-dingweizhan.jpg",
         "profile_url": ""
     },
     {
-        "uid": "",
-        "track": "",
-        "full_name": "",
-        "title": "",
-        "profile_photo": "",
+        "uid": "cap23-qinghanhu",
+        "track": "student",
+        "full_name": "Qinghan Hu",
+        "title": "Capstone Project Student",
+        "profile_photo": "p-qinghanhu.jpg",
         "profile_url": ""
     },
     {
-        "uid": "",
-        "track": "",
-        "full_name": "",
-        "title": "",
-        "profile_photo": "",
+        "uid": "cap23-haotingchen",
+        "track": "student",
+        "full_name": "Haoting (Joanne) Chen",
+        "title": "Capstone Project Student",
+        "profile_photo": "p-haotingchen.jpg",
         "profile_url": ""
     },
     {
-        "uid": "",
-        "track": "",
-        "full_name": "",
-        "title": "",
-        "profile_photo": "",
+        "uid": "cap23-joywang",
+        "track": "student",
+        "full_name": "Yi-chung (Joy) Wang",
+        "title": "Capstone Project Student",
+        "profile_photo": "p-joywang.jpg",
         "profile_url": ""
     },
     {
-        "uid": "",
-        "track": "",
-        "full_name": "",
-        "title": "",
-        "profile_photo": "",
-        "profile_url": ""
-    },
-    {
-        "uid": "",
-        "track": "",
-        "full_name": "",
-        "title": "",
-        "profile_photo": "",
+        "uid": "cap23-kaylinji",
+        "track": "student",
+        "full_name": "Ziqing (Kaylin) Ji",
+        "title": "Capstone Project Student",
+        "profile_photo": "p-ziqingli.jpg",
         "profile_url": ""
     }
 ]}

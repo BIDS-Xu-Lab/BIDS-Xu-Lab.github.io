@@ -53,12 +53,12 @@ resize();
 //     }
 // });
 
-window.addEventListener('scroll', function(event) {
-    if (window.scrollY >= 50) {
-        $('#navbar').addClass('navbar-scroll');
-        $('#navbar').removeClass('navbar-transparent');
-    } else {
-        $('#navbar').addClass('navbar-transparent');
-        $('#navbar').removeClass('navbar-scroll');
-    }
-});
+// window.addEventListener('scroll', function(event) {
+//     if (window.scrollY >= 50) {
+//         $('#navbar').addClass('navbar-scroll');
+//         $('#navbar').removeClass('navbar-transparent');
+//     } else {
+//         $('#navbar').addClass('navbar-transparent');
+//         $('#navbar').removeClass('navbar-scroll');
+//     }
+// });

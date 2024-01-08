@@ -43,8 +43,8 @@ PLUGINS = [
 DEFAULT_PAGINATION = False
 
 # put all contents under year folder
-ARTICLE_URL = "{category}-{slug}.html"
-ARTICLE_SAVE_AS = "{category}-{slug}.html"
+ARTICLE_URL = "{category}/{slug}.html"
+ARTICLE_SAVE_AS = "{category}/{slug}.html"
 
 # for page
 PAGE_URL = "{slug}.html"
@@ -96,7 +96,7 @@ def get_year(date_str):
         return ms[0]
 
 # Get people
-PEOPLE = json.load(open('content/people.json'))['people']
+PEOPLE = json.load(open('content/team.json'))['people']
 PEOPLE = list(filter(lambda p: p['uid']!= '', PEOPLE))
 PD = {}
 for p in PEOPLE:
