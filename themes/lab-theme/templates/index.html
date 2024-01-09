@@ -7,15 +7,47 @@
 {% block page %}
 
 <!-- Header-->
-<header id="hp_header" class="bg-lab text-white">
+<!-- <header id="hp_header" class="bg-lab">
     <div class="container px-4 text-center">
         <h1 class="fw-bolder hp-header-text">Welcome to {{ SITENAME }}</h1>
         <p class="lead hp-header-text">Where NLP Meets Biomedical Discovery</p>
     </div>
-</header>
+</header> -->
+
+<section id="home">
+    <div class="container px-1">
+    <div class="row justify-content-center">
+        <div class="col-md-12">
+            <p>
+                The Clinical NLP Lab is led by Dr. Hua Xu at Biomedical Informatics and Data Science at Yale School of Medicine. The lab has been devoted to developing novel natural language processing (NLP) methods, software, and applications for diverse biomedical texts, such as clinical notes, biomedical literature, and social media. 
+                We mainly working on three research areas including:   
+            </p>
+
+            <img class="home-img" src="../{{ THEME_STATIC_DIR }}/img/nlp-msa.jpg" alt="NLP Methods Software and Applications">
+            
+            <p>
+                (1) Developing novel methods for various challenging clinical NLP topics, such as named entity recognition, word sense disambiguation, syntactic parsing, semantic role labeling, active learning, and now large language models (LLMs). Our team participated in over a dozen international biomedical NLP challenges and was top ranked in the vast majority of these challenges. 
+                <br>
+                (2) Building robust clinical NLP software, such as MedEx (Medication Information Extraction System), and CLAMP (Clinical Language Annotation, Modeling, and Processing). The CLAMP tool has been downloaded by over 650 healthcare organizations worldwide, and it has achieved successful commercialization.  
+                <br>
+                (3) Applying clinical NLP technologies to clinical and translational research and clinical practice. We have collaborated with clinical investigators and successfully conducted many important clinical and translational studies using electronic health records. 
+            </p>
+
+            <p style="clear: both;">
+                Dr. Xu is the Chair of OHDSI NLP Working Group, promoting the use of textual data and NLP in real world evidence generation. A few NLP-based solutions (e.g., computer-assisted coding) were also developed in the lab to support clinical practice, by integrating with clinical information systems in hospitals and clinics. 
+                
+                </p>
+            <p>
+                These three areas complement each other: new methods lead to software that are used by many researchers, software facilitates clinical applications, and successful applications reveal where there is need for new methods, closing the loop and forming an ecosystem of our research activities in clinical NLP. 
+                
+            </p>
+        </div>
+    </div>
+    </div>
+</section>
 
 <!-- About section-->
-<section id="about">
+<!-- <section id="about">
     <div class="container px-4">
         <div class="row gx-4 justify-content-center">
             <div class="col-md-3">
@@ -36,10 +68,10 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 <!-- About section-->
-<section class="bg-light" id="services">
+<!-- <section class="bg-light" id="services">
     <div class="container px-4">
         <div class="row gx-4 justify-content-center">
             <div class="col-md-4">
@@ -78,7 +110,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
 <!-- Challenge Records Section -->
@@ -186,8 +218,87 @@
 
 <!-- CLAMP section -->
 <section id="clamp" class="bg-light">
+    <div class="container px-4">
+        <div class="row">
+            <div class="col">
+                <h2 style="text-align: center; line-height: 0.9em;">
+                    CLAMP
+                    <br>
+                    <span style="font-size: 0.8em; font-weight: normal;">
+                        Clinical Language Annotation, Modeling, and Processing Toolkit
+                    </span>
+                </h2>
+                <p class="text-center">
+                    CLAMP is a comprehensive clinical Natural Language Processing (NLP) software that enables recognition and automatic encoding of clinical information in narrative patient reports.
+                </p>
+            </div>
+        </div>
 
+        <div class="row">
+            <div class="col-md-4">
+
+            </div>
+            <div class="col-md-4">
+                
+            </div>
+            <div class="col-md-4">
+                
+            </div>
+        </div>
+    </div>
 </section>
+
+
+
+<div id="myCarousel" class="carousel slide mb-6" data-bs-ride="carousel">
+    <div class="carousel-indicators">
+      <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+      <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+      <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+    </div>
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="#0000ff"/></svg>
+        <div class="container">
+          <div class="carousel-caption text-start">
+            <h1>Example headline.</h1>
+            <p class="opacity-75">Some representative placeholder content for the first slide of the carousel.</p>
+            <p><a class="btn btn-lg btn-primary" href="#">Sign up today</a></p>
+          </div>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="var(--bs-secondary-color)"/></svg>
+        <div class="container">
+          <div class="carousel-caption">
+            <h1>Another example headline.</h1>
+            <p>Some representative placeholder content for the second slide of the carousel.</p>
+            <p><a class="btn btn-lg btn-primary" href="#">Learn more</a></p>
+          </div>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" preserveAspectRatio="xMidYMid slice" focusable="false"><rect width="100%" height="100%" fill="var(--bs-secondary-color)"/></svg>
+        <div class="container">
+          <div class="carousel-caption text-end">
+            <h1>One more for good measure.</h1>
+            <p>Some representative placeholder content for the third slide of this carousel.</p>
+            <p><a class="btn btn-lg btn-primary" href="#">Browse gallery</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
+  </div>
+
+
 
 <!-- Contact section-->
 <section id="contact">

@@ -184,7 +184,7 @@
     {
         "uid": "phd-zehanli",
         "track": "student",
-        "full_name": "Zehan Li",
+        "full_name": "Zehan (Leo) Li",
         "title": "PhD Student",
         "profile_photo": "p-zehanli.jpg",
         "profile_url": ""
@@ -207,8 +207,22 @@
     },
 
 
-
-
+    {
+        "uid": "stu23-cole",
+        "track": "student",
+        "full_name": "Cole Shafer-Ray",
+        "title": "Student",
+        "profile_photo": "p-stu23-cole.jpg",
+        "profile_url": ""
+    },
+    {
+        "uid": "stu23-kayla",
+        "track": "student",
+        "full_name": "Kayla Sokunle",
+        "title": "Student",
+        "profile_photo": "p-stu23-kayla.jpg",
+        "profile_url": ""
+    },
 
 
     {
@@ -257,6 +271,22 @@
         "full_name": "Ziqing (Kaylin) Ji",
         "title": "Capstone Project Student",
         "profile_photo": "p-ziqingli.jpg",
+        "profile_url": ""
+    },
+    {
+        "uid": "cap23-weipang",
+        "track": "student",
+        "full_name": "Wei Pang",
+        "title": "Capstone Project Student",
+        "profile_photo": "p-cap23-weipang.jpg",
+        "profile_url": ""
+    },
+    {
+        "uid": "cap23-yingxuepan",
+        "track": "student",
+        "full_name": "Yingxue Pan",
+        "title": "Capstone Project Student",
+        "profile_photo": "p-cap23-yingxuepan.jpg",
         "profile_url": ""
     }
 ]}
