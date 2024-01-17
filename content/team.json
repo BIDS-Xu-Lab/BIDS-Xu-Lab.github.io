@@ -210,16 +210,16 @@
     {
         "uid": "stu23-cole",
         "track": "student",
-        "full_name": "Cole Shafer-Ray",
-        "title": "Student",
+        "full_name": "David Cole Shafer-Ray",
+        "title": "Clinical Annotator",
         "profile_photo": "p-stu23-cole.jpg",
-        "profile_url": ""
+        "profile_url": "https://www.linkedin.com/in/coleshaferray/"
     },
     {
         "uid": "stu23-kayla",
         "track": "student",
         "full_name": "Kayla Sokunle",
-        "title": "Student",
+        "title": "Clinical Annotator",
         "profile_photo": "p-stu23-kayla.jpg",
         "profile_url": ""
     },
