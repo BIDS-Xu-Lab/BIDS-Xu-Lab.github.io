@@ -98,7 +98,7 @@ def get_year(date_str):
 # Get people
 PEOPLE = json.load(open('content/team.json'))['people']
 PEOPLE = list(filter(lambda p: p['uid']!= '', PEOPLE))
-PD = {}
-for p in PEOPLE:
-    if p['uid'] != '':
-        PD[p['uid']] = p
+# PD = {}
+# for p in PEOPLE:
+#     if p['uid'] != '':
+#         PD[p['uid']] = p

@@ -1,0 +1,465 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+    <title>{{ SITENAME }}</title>
+    <meta content="" name="description">
+    <meta content="" name="keywords">
+
+    <!-- Favicons -->
+    <link href="../{{ THEME_STATIC_DIR }}/img/favicon.png" rel="icon">
+    <link href="../{{ THEME_STATIC_DIR }}/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Google Fonts -->
+    <link
+        href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
+        rel="stylesheet">
+
+    <!-- Vendor CSS Files -->
+    <link href="../{{ THEME_STATIC_DIR }}/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../{{ THEME_STATIC_DIR }}/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link href="../{{ THEME_STATIC_DIR }}/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="../{{ THEME_STATIC_DIR }}/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+    <link href="../{{ THEME_STATIC_DIR }}/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+    <!-- Template Main CSS File -->
+    <link href="../{{ THEME_STATIC_DIR }}/css/style.css" rel="stylesheet">
+
+    <!-- Icon -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+        integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+</head>
+
+<body>
+
+    <!-- ======= Header ======= -->
+    <header id="header" class="fixed-top">
+        <div class="container d-flex align-items-center justify-content-between">
+
+            <a href="#" class="logo"><img src="../{{ THEME_STATIC_DIR }}/img/logo.png" alt="" class="img-fluid"></a>
+
+            <nav id="navbar" class="navbar">
+                <ul>
+                    <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+                    <li><a class="nav-link scrollto" href="./research.html">
+                            Research
+                        </a></li>
+                    <li><a class="nav-link scrollto" href="./team.html">Team</a></li>
+                    <!-- 
+          <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="#">Drop Down 1</a></li>
+              <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
+                <ul>
+                  <li><a href="#">Deep Drop Down 1</a></li>
+                  <li><a href="#">Deep Drop Down 2</a></li>
+                  <li><a href="#">Deep Drop Down 3</a></li>
+                  <li><a href="#">Deep Drop Down 4</a></li>
+                  <li><a href="#">Deep Drop Down 5</a></li>
+                </ul>
+              </li>
+              <li><a href="#">Drop Down 2</a></li>
+              <li><a href="#">Drop Down 3</a></li>
+              <li><a href="#">Drop Down 4</a></li>
+            </ul>
+          </li>
+          -->
+                    <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+                </ul>
+                <i class="bi bi-list mobile-nav-toggle"></i>
+            </nav><!-- .navbar -->
+
+        </div>
+    </header><!-- End Header -->
+
+    <!-- ======= Hero Section ======= -->
+    <section id="hero" class="d-flex align-items-center">
+
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
+                    <h1>Clinical NLP Lab</h1>
+                    <h2>We are team led by Dr. Hua Xu at Biomedical Informatics and Data Science at Yale School of
+                        Medicine</h2>
+                    <div class="d-flex">
+                        <a href="./research.html" class="btn-get-started scrollto">Our Research</a>
+                        <!-- <a href="#" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a> -->
+                    </div>
+                </div>
+                <div class="col-lg-6 order-1 order-lg-2 hero-img">
+                    <img src="../{{ THEME_STATIC_DIR }}/img/circle.jpg" class="img-fluid" alt="">
+                </div>
+            </div>
+        </div>
+
+    </section><!-- End Hero -->
+
+    <main id="main">
+
+        <!-- ======= Featured Services Section ======= -->
+        <section id="featured-services" class="featured-services">
+            <div class="container">
+
+                <div class="row">
+                    <div class="col-lg-4 col-md-6">
+                        <div class="icon-box">
+                            <div class="icon">
+                                <i class="fa-solid fa-scroll"></i>
+                            </div>
+                            <h4 class="title"><a href="javascript:void(0);">Methods</a></h4>
+                            <p class="description">Developing novel methods for various challenging clinical NLP topics,
+                                such as named entity recognition, word sense disambiguation, syntactic parsing, semantic
+                                role labeling, active learning, and now large language models (LLMs). Our team
+                                participated in over a dozen international biomedical NLP challenges and was top ranked
+                                in the vast majority of these challenges. </p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
+                        <div class="icon-box">
+                            <div class="icon">
+                                <i class="fa-solid fa-cubes"></i>
+                            </div>
+                            <h4 class="title"><a href="javascript:void(0);">Software</a></h4>
+                            <p class="description">Building robust clinical NLP software, such as MedEx (Medication
+                                Information Extraction System), and CLAMP (Clinical Language Annotation, Modeling, and
+                                Processing). The CLAMP tool has been downloaded by over 650 healthcare organizations
+                                worldwide, and it has achieved successful commercialization. </p>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
+                        <div class="icon-box">
+                            <div class="icon">
+                                <i class="fa-brands fa-uncharted"></i>
+                            </div>
+                            <h4 class="title"><a href="javascript:void(0);">Applications</a></h4>
+                            <p class="description">Applying clinical NLP technologies to clinical and translational
+                                research and clinical practice. We have collaborated with clinical investigators and
+                                successfully conducted many important clinical and translational studies using
+                                electronic health records. </p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section><!-- End Featured Services Section -->
+
+        <!-- ======= About Section ======= -->
+        <section id="about" class="about">
+            <div class="container">
+
+                <div class="row">
+                    <div class="col-lg-6">
+                        <img src="../{{ THEME_STATIC_DIR }}/img/about.png" class="img-fluid" alt="">
+                    </div>
+                    <div class="col-lg-6 pt-4 pt-lg-0 content">
+                        <h3>Our Team</h3>
+                        <p class="fst-italic">
+                            Dr. Xu is the Chair of OHDSI NLP Working Group, promoting the use of textual data and NLP in
+                            real world evidence generation. A few NLP-based solutions (e.g., computer-assisted coding)
+                            were also developed in the lab to support clinical practice, by integrating with clinical
+                            information systems in hospitals and clinics.
+                        </p>
+
+                        <p class="fst-italic">
+                            These three areas complement each other: new methods lead to software that are used by many
+                            researchers, software facilitates clinical applications, and successful applications reveal
+                            where there is need for new methods, closing the loop and forming an ecosystem of our
+                            research activities in clinical NLP.
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+        </section><!-- End About Section -->
+
+        <!-- ======= Counts Section ======= -->
+        <!-- <section id="counts" class="counts">
+      <div class="container">
+
+        <div class="row counters">
+
+          <div class="col-lg-3 col-6 text-center">
+            <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
+            <p>Clients</p>
+          </div>
+
+          <div class="col-lg-3 col-6 text-center">
+            <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
+            <p>Projects</p>
+          </div>
+
+          <div class="col-lg-3 col-6 text-center">
+            <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span>
+            <p>Hours Of Support</p>
+          </div>
+
+          <div class="col-lg-3 col-6 text-center">
+            <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
+            <p>Hard Workers</p>
+          </div>
+
+        </div>
+
+      </div>
+    </section> -->
+        <!-- End Counts Section -->
+
+        <!-- Challenge Records Section -->
+        <section id="challenge-records">
+            <div class="row px-5 justify-content-center">
+                <div class="col-md-10">
+
+                    <div class="section-title">
+                        <!-- <span>Software and Services</span> -->
+                        <h2>
+                            Biomedical NLP Challenges
+                        </h2>
+                        <p>
+                            We have participated in many NLP challenges and have achieved top rankings in many of them.
+                        </p>
+                    </div>
+
+                    <!-- <h2>
+                    Biomedical NLP Challenges  
+                </h2>
+                <p class="lead">
+                    We have participated in many NLP challenges and have achieved top rankings in many of them.
+                </p> -->
+                    <table class="table">
+                        <tr>
+                            <th colspan="2">NLP Challenge Tasks</th>
+                            <th>Ranking</th>
+                        </tr>
+                        <tr>
+                            <td rowspan="4">
+                                Named entity recognition
+                            </td>
+                            <td>
+                                2009 i2b2 medication information extraction
+                            </td>
+                            <td>
+                                #2
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                2010 i2b2 problem, treatment, test extraction
+                            </td>
+                            <td>
+                                #2
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                2013 SHARe/CLEF abbreviation recognition
+                            </td>
+                            <td>
+                                #1
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                2016 CEGS N-GRID, De-identification
+                            </td>
+                            <td>
+                                #2
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>
+                                UMLS encoding
+                            </td>
+                            <td>
+                                2014 SemEval, disorder encoding
+                            </td>
+                            <td>
+                                #1
+                            </td>
+                        </tr>
+
+
+                        <tr>
+                            <td rowspan="7">
+                                Relation extraction
+                            </td>
+                            <td>
+                                2012 i2b2 Temporal information extraction
+                            </td>
+                            <td>
+                                #1
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>2015 SemEval Disease-modifier extraction</td>
+                            <td>#1</td>
+                        <tr>
+                            <td>2015 BioCREATIVE Chemical-induced disease from literature</td>
+                            <td>#1</td>
+                        <tr>
+                            <td>2016 SemEvel, temporal information extraction</td>
+                            <td>#1</td>
+                        <tr>
+                            <td>2017 TAC ADR extraction from drug labels</td>
+                            <td>#1</td>
+                        <tr>
+                            <td>2018 n2c2, medication and associated ADR</td>
+                            <td>#1</td>
+                        <tr>
+                            <td>2022 LitCoin Challenge on literature mining</td>
+                            <td>#2</td>
+
+                    </table>
+                </div>
+            </div>
+
+        </section>
+
+        <!-- ======= Services Section ======= -->
+        <section id="services" class="services section-bg">
+            <div class="container">
+
+                <div class="section-title">
+                    <!-- <span>Software and Services</span> -->
+                    <h2>Software and Services</h2>
+                    <p>Sit sint consectetur velit quisquam cupiditate impedit suscipit alias</p>
+                </div>
+
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
+                        <div class="icon-box">
+                            <div class="icon"><i class="bx bxl-dribbble"></i></div>
+                            <h4><a href="">Lorem Ipsum</a></h4>
+                            <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
+                        <div class="icon-box">
+                            <div class="icon"><i class="bx bx-file"></i></div>
+                            <h4><a href="">Sed ut perspiciatis</a></h4>
+                            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
+                        <div class="icon-box">
+                            <div class="icon"><i class="bx bx-tachometer"></i></div>
+                            <h4><a href="">Magni Dolores</a></h4>
+                            <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+                        <div class="icon-box">
+                            <div class="icon"><i class="bx bx-world"></i></div>
+                            <h4><a href="">Nemo Enim</a></h4>
+                            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+                        <div class="icon-box">
+                            <div class="icon"><i class="bx bx-slideshow"></i></div>
+                            <h4><a href="">Dele cardo</a></h4>
+                            <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+                        <div class="icon-box">
+                            <div class="icon"><i class="bx bx-arch"></i></div>
+                            <h4><a href="">Divera don</a></h4>
+                            <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </section><!-- End Services Section -->
+
+        <!-- ======= Contact Section ======= -->
+        <section id="contact" class="contact">
+            <div class="container">
+
+                <div class="section-title">
+                    <span>Contact us</span>
+                    <h2>Contact us</h2>
+                    <p>Have questions or want to learn more about our lab's research and expertise? Please don't
+                        hesitate to reach out. We're here to engage with the research community and those interested in
+                        our work.</p>
+                </div>
+
+                <div class="row justify-content-center">
+
+                    <div class="col-md-6 d-flex justify-content-center">
+                        <div class="address">
+                            <h4>Location:</h4>
+                            <p>100 College Street, New Haven, CT 06510</p>
+                        </div>
+
+
+                    </div>
+
+                    <div class="col-md-6 d-flex justify-content-center">
+
+                        <div class="email">
+                            <h4>Email:</h4>
+                            <p>info@example.com</p>
+                        </div>
+
+                    </div>
+
+
+                </div>
+
+            </div>
+        </section><!-- End Contact Section -->
+
+
+    </main><!-- End #main -->
+
+    <!-- ======= Footer ======= -->
+    <footer id="footer">
+
+
+        <div class="container footer-bottom clearfix">
+            <div class="copyright">
+                &copy; Copyright <strong><span>eNno</span></strong>. All Rights Reserved
+            </div>
+
+            <div class="credits" style="color: #dddddd;">
+                <!-- All the links in the footer should remain intact. -->
+                <!-- You can delete the links only if you purchased the pro version. -->
+                <!-- Licensing information: https://bootstrapmade.com/license/ -->
+                <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/enno-free-simple-bootstrap-template/ -->
+                Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+            </div>
+        </div>
+    </footer><!-- End Footer -->
+
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+            class="bi bi-arrow-up-short"></i></a>
+
+    <!-- Vendor JS Files -->
+    <script src="../{{ THEME_STATIC_DIR }}/vendor/purecounter/purecounter_vanilla.js"></script>
+    <script src="../{{ THEME_STATIC_DIR }}/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="../{{ THEME_STATIC_DIR }}/vendor/glightbox/js/glightbox.min.js"></script>
+    <script src="../{{ THEME_STATIC_DIR }}/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+    <script src="../{{ THEME_STATIC_DIR }}/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="../{{ THEME_STATIC_DIR }}/vendor/php-email-form/validate.js"></script>
+
+    <!-- Template Main JS File -->
+    <script src="../{{ THEME_STATIC_DIR }}/js/main.js"></script>
+
+</body>
+
+</html>

@@ -49,6 +49,13 @@
         "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/fongci-lin/"
     },
 
+
+
+
+
+
+
+
     {
         "uid": "vipina-keloth",
         "track": "postdoc",
@@ -81,15 +88,28 @@
         "profile_photo": "p-jeff.jpg",
         "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/jeffrey-zhang/"
     },
-
     {
-        "uid": "ryan",
-        "track": "staff",
-        "full_name": "Ryan Denlinger, PhD",
-        "title": "Software Engineer",
-        "profile_photo": "p-ryan.jpg",
-        "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/ryan-denlinger/"
+        "uid": "yan-wang",
+        "track": "postdoc",
+        "full_name": "Yan Wang, PhD",
+        "title": "Postdoctoral Associate",
+        "profile_photo": "p-yanwang.jpg",
+        "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/yan-wang-yw937/"
     },
+    {
+        "uid": "lingfei-qian",
+        "track": "postdoc",
+        "full_name": "Lingfei Qian, PhD",
+        "title": "Postdoctoral Associate in Biomedical Informatics and Data Science",
+        "profile_photo": "p-lingfeiqian.jpg",
+        "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/lingfei-qian/"
+    },
+
+
+
+
+
+
     {
         "uid": "chris",
         "track": "staff",
@@ -139,28 +159,43 @@
         "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/jimin-huang/"
     },
     {
+        "uid": "xuguangai",
+        "track": "staff",
+        "full_name": "Xuguang Ai",
+        "title": "Data Scientist",
+        "profile_photo": "p-xuguangai.jpg",
+        "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/xuguang-ai/"
+    },
+    {
+        "uid": "yujiazhou",
+        "track": "staff",
+        "full_name": "Yujia Zhou",
+        "title": "Data Scientist",
+        "profile_photo": "p-yujiazhou.jpg",
+        "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/yujia-zhou/"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
         "uid": "max-wibert",
         "track": "intern",
         "full_name": "Max Wibert",
         "title": "Research Assistant",
         "profile_photo": "p-max.jpg",
         "profile_url": "https://www.linkedin.com/in/maxwell-wibert/"
-    },
-    {
-        "uid": "yan-wang",
-        "track": "postdoc",
-        "full_name": "Yan Wang, PhD",
-        "title": "Postdoctoral Associate",
-        "profile_photo": "p-yanwang.jpg",
-        "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/yan-wang-yw937/"
-    },
-    {
-        "uid": "",
-        "track": "",
-        "full_name": "Yujia Zhou",
-        "title": "",
-        "profile_photo": "",
-        "profile_url": ""
     },
     {
         "uid": "",
@@ -250,6 +285,14 @@
         "profile_url": ""
     },
     {
+        "uid": "cap23-amyguo",
+        "track": "student",
+        "full_name": "Amy (Siyan) Guo",
+        "title": "Capstone Project Student",
+        "profile_photo": "p-siyanguo.jpg",
+        "profile_url": ""
+    },
+    {
         "uid": "cap23-haotingchen",
         "track": "student",
         "full_name": "Haoting (Joanne) Chen",
@@ -270,7 +313,7 @@
         "track": "student",
         "full_name": "Ziqing (Kaylin) Ji",
         "title": "Capstone Project Student",
-        "profile_photo": "p-ziqingli.jpg",
+        "profile_photo": "p-ziqingji.jpg",
         "profile_url": ""
     },
     {
@@ -286,7 +329,167 @@
         "track": "student",
         "full_name": "Yingxue Pan",
         "title": "Capstone Project Student",
-        "profile_photo": "p-cap23-yingxuepan.jpg",
+        "profile_photo": "p-yingxuepan.jpg",
         "profile_url": ""
+    },
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "uid": "",
+        "track": "alumni",
+        "full_name": "Ryan Denlinger, PhD",
+        "title": "Software Engineer",
+        "profile_photo": "p-ryan.jpg",
+        "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/ryan-denlinger/"
+    },
+    {
+        "uid": "a2",
+        "track": "alumni",
+        "title": "Postdoctoral Fellow",
+        "full_name": "Mei Liu, PhD"
+    },
+    {
+        "uid": "a2",
+        "track": "alumni",
+        "title": "Postdoctoral Fellow",
+        "full_name": "Samir AbdelRahman, PhD"
+    },
+    {
+        "uid": "a2",
+        "track": "alumni",
+        "title": "Postdoctoral Fellow",
+        "full_name": "Yonghui Wu, PhD"
+    },
+    {
+        "uid": "a2",
+        "track": "alumni",
+        "title": "Postdoctoral Fellow",
+        "full_name": "Buzhou Tang, PhD"
+    },
+    {
+        "uid": "a2",
+        "track": "alumni",
+        "title": "Postdoctoral Fellow",
+        "full_name": "Guocai Chen, PhD"
+    },
+    {
+        "uid": "a2",
+        "track": "alumni",
+        "title": "Postdoctoral Fellow",
+        "full_name": "Ergin Soysal, M.D., Ph.D. "
+    },
+    {
+        "uid": "riea-moon",
+        "track": "alumni",
+        "title": "Postdoctoral Fellow",
+        "full_name": "Sungrim (Riea) Moon, PhD"
+    },
+    {
+        "uid": "a2",
+        "track": "alumni",
+        "title": "Postdoctoral Fellow",
+        "full_name": "Yaoyun Zhang, PhD"
+    },
+    {
+        "uid": "a2",
+        "track": "alumni",
+        "title": "Postdoctoral Fellow",
+        "full_name": "Jun Xu, PhD"
+    },
+    {
+        "uid": "a2",
+        "track": "alumni",
+        "title": "Postdoctoral Fellow",
+        "full_name": "Hee-jin Lee, PhD"
+    },
+    {
+        "uid": "a2",
+        "track": "alumni",
+        "title": "Postdoctoral Fellow",
+        "full_name": "Zongcheng Ji, PhD"
+    },
+    {
+        "uid": "a2",
+        "track": "alumni",
+        "title": "Postdoctoral Fellow",
+        "full_name": "Alice Nono Djotsa, PhD"
+    },
+    {
+        "uid": "a2",
+        "track": "alumni",
+        "title": "Postdoctoral Fellow",
+        "full_name": "Omid Ghiasvand, PhD"
+    },
+    {
+        "uid": "a2",
+        "track": "alumni",
+        "title": "Postdoctoral Fellow",
+        "full_name": "Qiang Wei, PhD"
+    },
+    {
+        "uid": "a2",
+        "track": "alumni",
+        "title": "Postdoctoral Fellow",
+        "full_name": "Avisha Das, PhD"
+    },
+
+
+
+
+
+    {
+        "uid": "a3",
+        "track": "alumni",
+        "title": "PhD Student",
+        "full_name": "Jianbo Lei, PhD"
+    },{
+        "uid": "a3",
+        "track": "alumni",
+        "title": "PhD Student",
+        "full_name": "Yukun Chen, PhD"
+    },{
+        "uid": "a3",
+        "track": "alumni",
+        "title": "PhD Student",
+        "full_name": "Min Jiang, PhD"
+    },{
+        "uid": "a3",
+        "track": "alumni",
+        "title": "PhD Student",
+        "full_name": "Jun Li, PhD"
+    },{
+        "uid": "a3",
+        "track": "alumni",
+        "title": "PhD Student",
+        "full_name": "Lian Hu, PhD"
+    },{
+        "uid": "a3",
+        "track": "alumni",
+        "title": "PhD Student",
+        "full_name": "Lingyi Tang, PhD"
+    },{
+        "uid": "a3",
+        "track": "alumni",
+        "title": "PhD Student",
+        "full_name": "Qiang Wei, PhD"
+    },{
+        "uid": "a3",
+        "track": "alumni",
+        "title": "PhD Student",
+        "full_name": "Xiao Dong, PhD"
+    },{
+        "uid": "a3",
+        "track": "alumni",
+        "title": "PhD Student",
+        "full_name": "Yiming Li, PhD"
     }
 ]}
