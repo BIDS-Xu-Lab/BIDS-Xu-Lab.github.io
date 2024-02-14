@@ -77,7 +77,10 @@
     <header id="header" class="fixed-top">
         <div class="container d-flex align-items-center justify-content-between">
 
-            <a href="./" class="logo"><img src="../{{ THEME_STATIC_DIR }}/img/logo.png" alt="" class="img-fluid"></a>
+            <a href="./" class="logo" style="text-decoration: none; color: #333333;">
+                <img src="../{{ THEME_STATIC_DIR }}/img/logo.png" alt="" class="img-fluid">
+                Clinical NLP Lab
+            </a>
 
             <nav id="navbar" class="navbar">
                 <ul>
@@ -120,24 +123,26 @@
 
 
     <!-- Footer -->
-    <footer class="flex-shrink-0 small pt-4 pb-2">
+    <footer id="footer">
 
-        <div class="container px-4">
-            <p class="m-0 mt-1 text-center">
-                {{ SITENAME }}, 100 College St., New Haven, CT 06510
-            </p>
 
-            <p class="text-center">
-                <a target="_blank" href="https://medicine.yale.edu/biomedical-informatics-data-science/">
-                    Section of Biomedical Informatics and Data Science
-                </a>
-                |
-                <a target="_blank" href="https://medicine.yale.edu/">
-                    Yale University School of Medicine
-                </a>
-            </p>
+        <div class="container footer-bottom clearfix">
+            <div class="copyright">
+                &copy; Copyright <strong><span>Clinical NLP Lab</span></strong>. All Rights Reserved
+            </div>
+
+            <div class="credits" style="color: #dddddd;">
+                <!-- All the links in the footer should remain intact. -->
+                <!-- You can delete the links only if you purchased the pro version. -->
+                <!-- Licensing information: https://bootstrapmade.com/license/ -->
+                <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/enno-free-simple-bootstrap-template/ -->
+                Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+            </div>
         </div>
-    </footer>
+    </footer><!-- End Footer -->
+
+    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+        class="bi bi-arrow-up-short"></i></a>
 
     <!-- Scripts -->
     <!-- Vendor JS Files -->

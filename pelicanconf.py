@@ -13,6 +13,7 @@ SITEDESCRIPTION = "Clinical NLP Lab"
 
 # just set this to relative path due to deployment issue
 SITEURL = '.'
+SITE_EMAIL = 'TBD'
 
 # where to store the markdown contents and other materials
 PATH = 'content'

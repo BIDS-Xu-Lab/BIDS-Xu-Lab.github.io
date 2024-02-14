@@ -5,7 +5,7 @@ Summary: Grants
 
 ## Current
 
-- [U24LM013755](https://reporter.nih.gov/project-details/10854683) (12/21/2020 - 11/30/2024): RADx-Rad Discoveries & Data: Consortium Coordination Center Program Organization
+<!-- - [U24LM013755](https://reporter.nih.gov/project-details/10854683) (12/21/2020 - 11/30/2024): RADx-Rad Discoveries & Data: Consortium Coordination Center Program Organization -->
 
 
 - [R01LM013519](https://reporter.nih.gov/project-details/10839649) (9/1/2021 - 5/31/2025): PheBC: bias correction methods for EHR derived phenotype
