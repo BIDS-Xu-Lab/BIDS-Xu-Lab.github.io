@@ -63,6 +63,20 @@ def filter_pg2act_nav(output_file, target):
     return ''
 
 
+def filter_astitle(s):
+    '''
+    Convert a string to title
+    '''
+    return s.title()
+
+
+def filter_fmtdate(date_str, fmt='%Y-%m-%d'):
+    '''
+    Format a date string
+    '''
+    return date_str.strftime(fmt)
+
+
 def add_all_filters(pelican):
     """Add (register) all filters to Pelican."""
     pelican.env.filters.update({"pg2path": filter_pg2path})
@@ -71,6 +85,8 @@ def add_all_filters(pelican):
     pelican.env.filters.update({"md2html": filter_md2html})
     pelican.env.filters.update({"get_year": filter_get_year})
     pelican.env.filters.update({"sort_mycates": filter_sort_mycates})
+    pelican.env.filters.update({"astitle": filter_astitle})
+    pelican.env.filters.update({"fmtdate": filter_fmtdate})
 
 
 ###########################################################

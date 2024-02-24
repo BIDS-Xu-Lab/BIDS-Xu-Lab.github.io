@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+
+{% block meta %}
+{% endblock meta%}
+
+{% block title %}
+    {{ category.name|striptags|escape }} &ndash; {{ SITENAME }}
+{% endblock title %}
+
+
+{% block header %}
+
+<h1 id="{{ category}}"
+    class="header-title"
+    style="border-left: 10px solid #047bb5; padding-left: 0.5em;">
+    {{ category.name|astitle }}
+</h1>
+
+{% endblock header %}
+
+
+{% block content %}
+
+{% for article in articles %}
+{% if article.tags and 'pin' in article.tags %}
+<div class="mb-5 py-3">
+    <h5 class="card-title">
+        {{ article.date|fmtdate }}
+        <a href="{{ article.url }}">
+            {{ article.title }}
+        </a>
+    </h5>
+    <div class="px-5">
+        {{ article.summary }}
+    </div>
+</div>
+
+{% endif %}
+{% endfor %}
+
+<hr>
+
+<div class="main-article">
+{% for article in articles %}
+{% if article.tags and 'pin' not in article.tags %}
+    <div class="mb-3 border-bottom">
+        <h5 class="card-title">
+            {{ article.date|fmtdate }}
+            <a href="{{ article.url }}">
+                {{ article.title }}
+            </a>
+        </h5>
+        <div class="px-5 py-2">
+            {{ article.summary }}
+        </div>
+    </div>
+{% endif %}
+{% endfor %}
+</div>
+
+{% endblock content %}

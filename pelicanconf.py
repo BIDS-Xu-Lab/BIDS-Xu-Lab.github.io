@@ -44,8 +44,8 @@ PLUGINS = [
 DEFAULT_PAGINATION = False
 
 # put all contents under year folder
-ARTICLE_URL = "{category}/{slug}.html"
-ARTICLE_SAVE_AS = "{category}/{slug}.html"
+ARTICLE_URL = "{date:%Y}-{slug}.html"
+ARTICLE_SAVE_AS = "{date:%Y}-{slug}.html"
 
 # for page
 PAGE_URL = "{slug}.html"
@@ -56,13 +56,14 @@ AUTHOR_SAVE_AS = ""
 AUTHORS_SAVE_AS = ""
 
 # no need for tags page
+TAGS_URL = ""
 TAGS_SAVE_AS = ""
 
 # no need for archive page
 ARCHIVES_SAVE_AS = ""
 
 # no need for categorys page
-CATEGORY_SAVE_AS = ""
+CATEGORY_SAVE_AS = "{slug}.html"
 CATEGORIES_SAVE_AS = "cates.html"
 
 # current year of this site

@@ -75,39 +75,28 @@
 
     <!-- Navigation -->
    
-    <!-- ======= Header ======= -->
-    <header id="header" class="fixed-top">
-        <div class="container d-flex align-items-center justify-content-between">
+    {% include '_header.html' %}
 
-            <a href="./" class="logo" style="text-decoration: none; color: #333333;">
-                <img src="../{{ THEME_STATIC_DIR }}/img/logo.png" alt="" class="img-fluid">
-                Clinical NLP Lab
-            </a>
+    <!-- Header -->
+    <div id="mini_hero" class="d-flex al bg-lab-img">
 
-            <nav id="navbar" class="navbar">
-                <ul>
-                    <li><a class="nav-link scrollto active" href="./">Home</a></li>
-                    <li><a class="nav-link scrollto" href="./research.html">
-                            Research
-                        </a></li>
-                    <li><a class="nav-link scrollto" href="./team.html">Team</a></li>
-                    <li><a class="nav-link scrollto" href="./#contact">Contact</a></li>
-                </ul>
-                <i class="bi bi-list mobile-nav-toggle"></i>
-            </nav><!-- .navbar -->
-
+        <div class="container">
+            
+        <div class="row">
+            <div class="col py-4">
+            {% block header %}
+            {% endblock header %}
+            </div>
         </div>
-    </header><!-- End Header -->
+    </div>
+
+    </div>
 
     <!-- Full page -->
-    <div class="flex-shrink-0 flex-grow-1" style="padding-top: 4.5rem;">
+    <div class="flex-shrink-0 flex-grow-1" style="padding-top: 2.5rem;">
     {% block page %}
 
-        <!-- Header -->
-        <div class="container">
-        {% block header %}
-        {% endblock header %}
-        </div>
+
 
         <!-- Main -->
         <main class="py-3">

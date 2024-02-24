@@ -1,8 +1,10 @@
-Title: Yan's Towards precise PICO extraction from abstracts of randomized controlled trials using a section-specific learning approach is accepted!
+Title: Yan's paper is accepted in Bioinformatics! 🎉
 Category: news
 Date: 2023-09-01
-Slug: yanhu-jamia-acceptance
-Summary: Every project starts with a `hello world`
+Slug: yanhu-bioinfo-acceptance
+Tags: paper
+Summary: Yan's work **Towards precise PICO extraction from abstracts of randomized controlled trials using a section-specific learning approach** has been accepted and published by **Bioinformatics**
+
 
 Yan's work **Towards precise PICO extraction from abstracts of randomized controlled trials using a section-specific learning approach** has been accepted and published by **Bioinformatics**, PMID: [37669123](https://pubmed.ncbi.nlm.nih.gov/37669123/) PMCID: PMC10500081, DOI: https://doi.org/10.1093/bioinformatics/btad542.
 

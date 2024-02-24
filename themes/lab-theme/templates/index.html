@@ -10,7 +10,7 @@
     <meta content="" name="keywords">
 
     <!-- Favicons -->
-    <link href="../{{ THEME_STATIC_DIR }}/img/favicon.png" rel="icon">
+    <link href="../{{ THEME_STATIC_DIR }}/img/favicon.ico" rel="icon">
     <link href="../{{ THEME_STATIC_DIR }}/img/apple-touch-icon.png" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
@@ -29,55 +29,14 @@
     <!-- Icon -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-
-
 </head>
 
 <body>
 
-    <!-- ======= Header ======= -->
-    <header id="header" class="fixed-top">
-        <div class="container d-flex align-items-center justify-content-between">
-            <!-- <h1 class="logo"><a href="index.html">eNno</a></h1> -->
-
-            <a href="#" class="logo"><img src="../{{ THEME_STATIC_DIR }}/img/logo.png" alt="" class="img-fluid"></a>
-
-            <nav id="navbar" class="navbar">
-                <ul>
-                    <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-                    <li><a class="nav-link scrollto" href="./research.html">
-                            Research
-                        </a></li>
-                    <li><a class="nav-link scrollto" href="./team.html">Team</a></li>
-                    <!-- 
-                    <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
-                        <ul>
-                        <li><a href="#">Drop Down 1</a></li>
-                        <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
-                            <ul>
-                            <li><a href="#">Deep Drop Down 1</a></li>
-                            <li><a href="#">Deep Drop Down 2</a></li>
-                            <li><a href="#">Deep Drop Down 3</a></li>
-                            <li><a href="#">Deep Drop Down 4</a></li>
-                            <li><a href="#">Deep Drop Down 5</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="#">Drop Down 2</a></li>
-                        <li><a href="#">Drop Down 3</a></li>
-                        <li><a href="#">Drop Down 4</a></li>
-                        </ul>
-                    </li>
-                    -->
-                    <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-                </ul>
-                <i class="bi bi-list mobile-nav-toggle"></i>
-            </nav><!-- .navbar -->
-
-        </div>
-    </header><!-- End Header -->
+    {% include '_header.html' %}
 
     <!-- ======= Hero Section ======= -->
-    <section id="hero" class="d-flex align-items-center">
+    <section id="hero" class="d-flex align-items-center bg-lab-img">
 
         <div class="container">
             <div class="row">
@@ -90,12 +49,11 @@
                     </h2>
                     <div class="d-flex">
                         <a href="./research.html" class="btn-get-started scrollto">Our Research</a>
-                        <!-- <a href="#" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a> -->
+
+                        <a href="./2024-recruitment.html" class="btn-next mx-2 scrollto">We are hiring!</a>
                     </div>
                 </div>
-                <div class="col-lg-6 order-1 order-lg-2 hero-img">
-                    <img src="../{{ THEME_STATIC_DIR }}/img/circle.jpg" class="img-fluid" alt="">
-                </div>
+
             </div>
         </div>
 
@@ -106,21 +64,17 @@
         <!-- ======= Featured Services Section ======= -->
         <section id="featured-services" class="featured-services">
             <div class="container">
-                
-                <div class="row">
-                    <div class="col">
 
-                        <p class="fst-italic">
 
-                            <!-- The Clinical NLP Lab is led by Dr. Hua Xu at Biomedical Informatics and Data Science at Yale School of Medicine.  -->
-                            
-                            The lab has been devoted to developing novel natural language processing (NLP) methods, software, and applications for diverse biomedical texts, such as clinical notes, biomedical literature, and social media.
-
-                            
-                            These three areas complement each other: new methods lead to software that are used by many researchers, software facilitates clinical applications, and successful applications reveal where there is need for new methods, closing the loop and forming an ecosystem of our research activities in clinical NLP. 
-                        </p>
-                    </div>
+                <div class="section-title mt-4">
+                    <h2>About</h2>
+                    <p>
+                        The lab has been devoted to developing novel natural language processing (NLP) methods, software, and applications for diverse biomedical texts, such as clinical notes, biomedical literature, and social media.
+                        
+                        These three areas complement each other: new methods lead to software that are used by many researchers, software facilitates clinical applications, and successful applications reveal where there is need for new methods, closing the loop and forming an ecosystem of our research activities in clinical NLP. 
+                    </p>
                 </div>
+                
 
 
                 <div class="row">
@@ -130,11 +84,9 @@
                                 <i class="fa-solid fa-scroll"></i>
                             </div>
                             <h4 class="title"><a href="javascript:void(0);">Methods</a></h4>
-                            <p class="description">Developing novel methods for various challenging clinical NLP topics,
-                                such as named entity recognition, word sense disambiguation, syntactic parsing, semantic
-                                role labeling, active learning, and now large language models (LLMs). Our team
-                                participated in over a dozen international biomedical NLP challenges and was top ranked
-                                in the vast majority of these challenges. </p>
+                            <p class="description">Developing novel methods for various challenging clinical NLP topics, such as named entity recognition, word sense disambiguation, syntactic parsing, semantic role labeling, active learning, and now large language models (LLMs). 
+                                
+                            </p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 mt-4 mt-md-0">
@@ -143,10 +95,7 @@
                                 <i class="fa-solid fa-cubes"></i>
                             </div>
                             <h4 class="title"><a href="javascript:void(0);">Software</a></h4>
-                            <p class="description">Building robust clinical NLP software, such as MedEx (Medication
-                                Information Extraction System), and CLAMP (Clinical Language Annotation, Modeling, and
-                                Processing). The CLAMP tool has been downloaded by over 650 healthcare organizations
-                                worldwide, and it has achieved successful commercialization. </p>
+                            <p class="description">Building robust clinical NLP software, such as MedEx (Medication Information Extraction System), and CLAMP (Clinical Language Annotation, Modeling, and Processing). The CLAMP tool has been downloaded by over 650 healthcare organizations worldwide, and it has achieved successful commercialization. </p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 mt-4 mt-lg-0">
@@ -155,50 +104,15 @@
                                 <i class="fa-brands fa-uncharted"></i>
                             </div>
                             <h4 class="title"><a href="javascript:void(0);">Applications</a></h4>
-                            <p class="description">Applying clinical NLP technologies to clinical and translational
-                                research and clinical practice. We have collaborated with clinical investigators and
-                                successfully conducted many important clinical and translational studies using
-                                electronic health records. 
-                                Dr. Xu is the Chair of OHDSI NLP Working Group, promoting the use of textual data and NLP in
-                            real world evidence generation. A few NLP-based solutions (e.g., computer-assisted coding)
-                            were also developed in the lab to support clinical practice, by integrating with clinical
-                            information systems in hospitals and clinics.
+                            <p class="description">Applying clinical NLP technologies to clinical and translational research and clinical practice. We have collaborated with clinical investigators and successfully conducted many important clinical and translational studies using electronic health records. 
                             </p>
                         </div>
                     </div>
                 </div>
 
 
-                <!-- <div class="row mt-4">
-                    <div class="col">
-                        <p class="fst-italic">
-
-                            These three areas complement each other: new methods lead to software that are used by many researchers, software facilitates clinical applications, and successful applications reveal where there is need for new methods, closing the loop and forming an ecosystem of our research activities in clinical NLP. 
-                        </p>
-                    </div>
-                </div> -->
             </div>
         </section><!-- End Featured Services Section -->
-
-        <!-- ======= About Section ======= -->
-        <!-- <section id="about" class="about">
-            <div class="container">
-
-                <div class="row">
-                    <div class="col-lg-6">
-                        <img src="../{{ THEME_STATIC_DIR }}/img/about.png" class="img-fluid" alt="">
-                    </div>
-                    <div class="col-lg-6 pt-4 pt-lg-0 content">
-                        <h3>Our Team</h3>
-
-                        
-                    </div>
-                </div>
-
-            </div>
-        </section>
-         -->
-        <!-- End About Section -->
 
 
         <!-- Challenge Records Section -->
@@ -333,7 +247,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+                    <!-- <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
                         <div class="icon-box w-100">
                             <div class="icon">
                                 <i class="fa-regular fa-comments"></i>
@@ -345,7 +259,7 @@
                                 A large language model fine-tuned with biomedical and clinical data
                             </p>
                         </div>
-                    </div>
+                    </div> -->
 
                     <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
                         <div class="icon-box w-100">
@@ -371,7 +285,7 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+                    <!-- <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
                         <div class="icon-box w-100">
                             <div class="icon">
                                 <i class="fa-regular fa-newspaper"></i>
@@ -383,9 +297,9 @@
                                 Clinical Abbreviation Recognition and Disambiguation
                             </p>
                         </div>
-                    </div>
+                    </div> -->
 
-                    <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+                    <!-- <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
                         <div class="icon-box w-100">
                             <div class="icon"><i class="bx bx-slideshow"></i></div>
                             <h4><a href="javascript:void(0);">
@@ -395,7 +309,7 @@
                                 Biomedical Knowledge Explorer
                             </p>
                         </div>
-                    </div>
+                    </div> -->
 
                 </div>
 
@@ -428,7 +342,7 @@
                         <div class="email">
                             <h4>Email:</h4>
                             <p>
-                                <a href="mailto:{{ SITE_EMAIL }}">{{ SITE_EMAIL }}</a>
+                                <img height="20px" src="../{{ THEME_STATIC_DIR }}/img/email.jpg" alt="email">
                             </p>
                         </div>
 

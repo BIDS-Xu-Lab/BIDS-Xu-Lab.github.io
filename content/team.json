@@ -48,22 +48,21 @@
         "profile_photo": "p-fongci.jpg",
         "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/fongci-lin/"
     },
-
-
-
-
-
-
-
-
     {
         "uid": "vipina-keloth",
-        "track": "postdoc",
+        "track": "faculty",
         "full_name": "Vipina K. Keloth, PhD",
-        "title": "Postdoctoral Associate in Biomedical Informatics and Data Science",
+        "title": "Associate Research Scientist in Biomedical Informatics and Data Science",
         "profile_photo": "p-vipina.jpg",
         "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/vipina-kuttichikeloth/"
     },
+
+
+
+
+
+
+
     {
         "uid": "xueqing-peng",
         "track": "postdoc",
@@ -133,6 +132,14 @@
         "title": "Program Manager",
         "profile_photo": "p-pritham.jpg",
         "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/pritham-ram/"
+    },
+    {
+        "uid": "alex-schwartz",
+        "track": "staff",
+        "full_name": "Alexander Schwartz",
+        "title": "Program Manager",
+        "profile_photo": "p-alexs.jpg",
+        "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/alexander-schwartz/"
     },
     {
         "uid": "malaika",

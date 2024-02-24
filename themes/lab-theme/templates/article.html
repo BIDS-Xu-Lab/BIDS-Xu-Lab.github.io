@@ -11,9 +11,23 @@
 {% endblock title %}
 
 
+{% block header %}
+
+<h1 id="{{ article.slug }}"
+    class="header-title"
+    style="border-left: 10px solid #047bb5; padding-left: 0.5em;">
+    {{ article.title }}
+</h1>
+
+{% endblock header %}
+
+
 {% block content %}
 
 <div class="main-article">
+
+
+
     {{ article.content }}
 </div>
 

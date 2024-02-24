@@ -1,12 +1,44 @@
 <link rel="stylesheet" href="../{{ THEME_STATIC_DIR }}/css/lab.css">
 
 
-<h2 class="my-4">
+<h2 class="mt-1 mb-4">
     Faculty
 </h2>
+
 <div class="row">
     {% for p in PEOPLE %}
-    {% if p['track'] == 'faculty' %}
+    {% if p['uid'] == 'hua-xu' %}
+    <div class="col">
+        <div class="row mt-1">
+            <div class="col-md-3">
+                <img class="profile-photo" src="../image/{{ p['profile_photo'] }}">
+            </div>
+        
+            <div class="col-md-9">
+                <h3 class="person-name">
+                    {{ p['full_name'] }}
+                </h3>
+                <p class="person-info fst-italic">
+                    {{ p['title'] }}
+                </p>
+                <p class="person-info">
+                    Dr. Hua Xu is a well-known researcher in clinical natural language processing (NLP). He has developed novel algorithms for important clinical NLP tasks such as entity recognition and relation extraction, which have been top ranked in over a dozen of international biomedical NLP challenges. His lab has developed CLAMP, a comprehensive clinical NLP toolkit that has been successfully commercialized and used by hundreds of healthcare organizations. Moreover, he has led multiple national/international initiatives (e.g., Chair of the NLP working group at Observational Health Data Sciences and Informatics - OHDSI program) to apply developed NLP technologies to diverse clinical and translational studies, thus greatly accelerating clinical evidence generation using electronic health records data. Recently, he also utilizes NLP to harmonize metadata of biomedical digital objects (e.g., indexing millions of biomedical datasets to make them findable), with the goal to promote FAIR principles in biomedicine.
+                </p>
+                <p class="person-link">
+                    <a href="{{ p['profile_url'] }}">
+                        View Full Profile
+                    </a>
+                </p>
+        
+            </div>
+        </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+</div>
+<div class="row">
+    {% for p in PEOPLE %}
+    {% if p['track'] == 'faculty' and p['uid'] != 'hua-xu' %}
     <div class="col-md-6">
         {{ p|person2html(TEMPLATE_PERSON) }}
     </div>
