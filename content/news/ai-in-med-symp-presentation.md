@@ -31,11 +31,17 @@ Our lab members presented the following oral presentations and posters.
 </div>
 
 
+- Clinical and Biomedical Named Entity Recognition Using Generative Pre-Trained Transformer Models. 
+Vipina Keloth, PhD
+
+<div style="text-align: center;">
+<img style="width: 85%;" src="../image/news/2024-ai-in-med-symp-vipina.jpg">
+</div>
+
+
+
 - Beyond Result Reporting on the Testing Set: Enhancing AI-Assisted Medical Imaging Diagnostic Workflow, External Validations, and Continued Training. Qingyu Chen, PhD
 
 
 - A Systematic Evaluation of Large Language Models for Biomedical Natural Language Processing: Benchmarks, Baselines, and Recommendations. Qingyu Chen, PhD
 
-
-- Clinical and Biomedical Named Entity Recognition Using Generative Pre-Trained Transformer Models. 
-Vipina Keloth, PhD
