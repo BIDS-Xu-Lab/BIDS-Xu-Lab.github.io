@@ -126,6 +126,14 @@
         "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/kj-richmond/"
     },
     {
+        "uid": "ira",
+        "track": "staff",
+        "full_name": "Ira Einbinder",
+        "title": "Software Engineer",
+        "profile_photo": "p-ira.jpg",
+        "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/ira-einbinder/"
+    },
+    {
         "uid": "pritham-ham",
         "track": "staff",
         "full_name": "Pritham Ram",

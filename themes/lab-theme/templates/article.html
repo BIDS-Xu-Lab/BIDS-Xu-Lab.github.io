@@ -24,10 +24,11 @@
 
 {% block content %}
 
+<div class="article-meta mb-4 fst-italic">
+    {{ article.date.strftime('%B %d, %Y') }}
+</div>
+
 <div class="main-article">
-
-
-
     {{ article.content }}
 </div>
 

@@ -1210,6 +1210,11 @@ section {
   background: #206bfb;
 }
 
+.article-meta {
+  font-size: 14px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
 @keyframes animate-loading {
   0% {
     transform: rotate(0deg);
