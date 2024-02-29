@@ -49,9 +49,17 @@ Vipina Keloth, PhD
 
 - Beyond Result Reporting on the Testing Set: Enhancing AI-Assisted Medical Imaging Diagnostic Workflow, External Validations, and Continued Training. Qingyu Chen, PhD
 
+<div style="text-align: center;">
+<img style="width: 85%;" src="../image/news/2024-yale_ai_med_qingyu_020124_image.jpg">
+</div>
+<br>
+<br>
 
 <br>
 <br>
 
 - A Systematic Evaluation of Large Language Models for Biomedical Natural Language Processing: Benchmarks, Baselines, and Recommendations. Qingyu Chen, PhD
 
+<div style="text-align: center;">
+<img style="width: 85%;" src="../image/news/2024-yale_ai_med_qingyu_020124_nlp.jpg">
+</div>
