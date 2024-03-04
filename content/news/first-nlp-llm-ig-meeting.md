@@ -9,6 +9,11 @@ We are thrilled to announce the successful launch of the Yale NLP (Natural Langu
 
 The meeting was attended by a diverse group of enthusiastic individuals, including students, researchers, and engineers, all sharing a common interest in exploring the intersection of law, language, and technology. 
 
+<img style="width: 50%;" src="https://github.com/BIDS-Xu-Lab/BIDS-Xu-Lab.github.io/assets/140455389/a016becc-b534-4709-b236-a5859ceecb0d">
+
+<img style="width: 50%;" src="https://github.com/BIDS-Xu-Lab/BIDS-Xu-Lab.github.io/assets/140455389/3e694b8c-21eb-41f1-9075-4822651f1a89">
+
+
 ### Get Involved!
 
 We invite all members to actively participate in the activities of the Yale NLP LLM Interest Group. Whether you're a seasoned NLP practitioner or just starting to explore the field, there's a place for you in our community. Stay tuned for updates on upcoming events and initiatives!
