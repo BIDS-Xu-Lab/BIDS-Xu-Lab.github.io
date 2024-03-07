@@ -1,4 +1,4 @@
-Title: 2024 AI in Medicine Symposium!
+Title: 2024 Yale AI in Medicine Symposium!
 Category: news
 Date: 2024-02-02
 Slug: ai-in-med-symp-presentation

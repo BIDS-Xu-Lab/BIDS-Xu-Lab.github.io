@@ -88,14 +88,25 @@ h6 {
 #header.header-scrolled a.logo {
   color: #444444;
 }
+#header.header-scrolled .logo .logo-img {
+  background-image: url('../img/logo-black.png');
+}
 
 #header .logo {
-  font-size: 24px;
+  font-size: 28px;
   margin: 0;
   padding: 0;
   line-height: 1;
   font-weight: 700;
   letter-spacing: 0.5px;
+}
+
+#header .logo .logo-img {
+  width: 32px;
+  height: 32px;
+  display: inline-block;
+  background-image: url('../img/logo-white.png');
+  background-size: cover;
 }
 
 #header a.logo {
