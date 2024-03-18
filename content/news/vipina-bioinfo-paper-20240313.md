@@ -1,4 +1,4 @@
-Title: Dr. Vipina K. Keloth's paper is accepted in Bioinformatics! 🎉
+Title: Dr. Vipina K. Keloth's paper has been accepted by Bioinformatics! 🎉
 Category: news
 Date: 2024-03-13
 Slug: vipina-bioinfo-acceptance
