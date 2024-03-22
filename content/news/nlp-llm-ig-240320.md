@@ -1,9 +1,9 @@
-Title: The third Meeting of the Yale NLP LLM Interest Group
+Title: The Third Meeting of the Yale NLP LLM Interest Group
 Category: news
 Date: 2024-03-20
 Slug: third-nlp-llm-ig
 Tags: NLP,LLM
-Summary: "ChatGPT in Action: An Experimental Investigation of Its Effectiveness in NLP Tasks" by Dr. Xia Hu
+Summary: "ChatGPT in Action: An Experimental Investigation of Its Effectiveness in NLP Tasks" by Dr. Xia "Ben" Hu
 
 
 **Speaker**u: Dr. Xia “Ben” Hu, Associate Professor, Department of Computer Science at Rice University.
