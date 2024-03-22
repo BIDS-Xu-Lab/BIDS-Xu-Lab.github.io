@@ -6,7 +6,7 @@ Tags: NLP,LLM
 Summary: "ChatGPT in Action: An Experimental Investigation of Its Effectiveness in NLP Tasks" by Dr. Xia "Ben" Hu
 
 
-**Speaker**u: Dr. Xia “Ben” Hu, Associate Professor, Department of Computer Science at Rice University.
+**Speaker**: Dr. Xia “Ben” Hu, Associate Professor, Department of Computer Science at Rice University.
 
 **Title of Talk**: ChatGPT in Action: An Experimental Investigation of Its Effectiveness in NLP Tasks 
 
