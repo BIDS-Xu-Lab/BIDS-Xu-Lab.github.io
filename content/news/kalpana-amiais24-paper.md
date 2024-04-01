@@ -3,8 +3,7 @@ Category: news
 Date: 2024-03-20
 Slug: dr-raja-amiais-24-presentation
 Tags: NLP,LLM,GPT
-Summary: Dr. Raja showcased her research work **"A Study of Biomedical Relation Extraction Using GPT Models"** at the AMIA Informatics Summit 
-2024 held in Boston on March 20th.
+Summary: Dr. Raja showcased her research work **"A Study of Biomedical Relation Extraction Using GPT Models"** at the AMIA Informatics Summit 2024 held in Boston on March 20th.
 
 We are thrilled to announce that Dr. Raja showcased her research work at the [AMIA Informatics Summit 2024](https://amia.org/education-events/amia-2024-informatics-summit) held in Boston on March 20th.
 
