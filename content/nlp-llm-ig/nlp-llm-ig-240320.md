@@ -1,5 +1,5 @@
-Title: The Third Meeting of the Yale NLP LLM Interest Group
-Category: news
+Title: Third Meeting of the Yale NLP/LLM Interest Group
+Category: nlp-llm-ig
 Date: 2024-03-20
 Slug: third-nlp-llm-ig
 Tags: NLP,LLM
@@ -22,5 +22,5 @@ Dr. Xia “Ben” Hu is an Associate Professor at Rice University in the Departm
 
 ### Get Involved!
 
-We invite all members to actively participate in the activities of the Yale NLP LLM Interest Group. Whether you're a seasoned NLP practitioner or just starting to explore the field, there's a place for you in our community. Stay tuned for updates on upcoming events and initiatives!
-Join our **mailing list [https://mailman.yale.edu/mailman/listinfo/nlp-llm-ig](https://mailman.yale.edu/mailman/listinfo/nlp-llm-ig)** to stay informed about future meetings and events.
+We invite all members to actively participate in the activities of the Yale NLP/LLM Interest Group. Whether you're a seasoned NLP practitioner or just starting to explore the field, there's a place for you in our community. Stay tuned for updates on upcoming events and initiatives!
+[**Join our mailing list**](https://mailman.yale.edu/mailman/listinfo/nlp-llm-ig) to stay informed about future meetings and events.

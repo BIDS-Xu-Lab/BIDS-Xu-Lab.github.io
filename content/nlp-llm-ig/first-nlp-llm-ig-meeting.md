@@ -1,5 +1,5 @@
-Title: First Meeting of the Yale NLP LLM Interest Group
-Category: news
+Title: First Meeting of the Yale NLP/LLM Interest Group
+Category: nlp-llm-ig
 Date: 2024-02-21
 Slug: first-nlp-llm-ig
 Tags: NLP,LLM
@@ -16,8 +16,8 @@ The meeting was attended by a diverse group of enthusiastic individuals, includi
 
 ### Get Involved!
 
-We invite all members to actively participate in the activities of the Yale NLP LLM Interest Group. Whether you're a seasoned NLP practitioner or just starting to explore the field, there's a place for you in our community. Stay tuned for updates on upcoming events and initiatives!
+We invite all members to actively participate in the activities of the Yale NLP/LLM Interest Group. Whether you're a seasoned NLP practitioner or just starting to explore the field, there's a place for you in our community. Stay tuned for updates on upcoming events and initiatives!
 
 ### Connect With Us:
 
-Join our **mailing list [https://mailman.yale.edu/mailman/listinfo/nlp-llm-ig](https://mailman.yale.edu/mailman/listinfo/nlp-llm-ig)** to stay informed about future meetings and events.
+[**Join our mailing list**](https://mailman.yale.edu/mailman/listinfo/nlp-llm-ig) to stay informed about future meetings and events.
