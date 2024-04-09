@@ -6,7 +6,7 @@ Tags: paper
 Summary: Dr. Vipina K. Keloth's paper **Advancing Entity Recognition in Biomedicine via Instruction Tuning of Large Language Models** has been accepted by **Bioinformatics**!
 
 
-Dr. Vipina K. Keloth's paper **Advancing Entity Recognition in Biomedicine via Instruction Tuning of Large Language Models** has been accepted by **Bioinformatics**!
+Dr. Vipina K. Keloth's paper **Advancing Entity Recognition in Biomedicine via Instruction Tuning of Large Language Models** has been accepted by **Bioinformatics**! and published on Volume 40, Issue 4, April 2024. You can find more information at https://doi.org/10.1093/bioinformatics/btae163, PMID: [38514400](https://pubmed.ncbi.nlm.nih.gov/38514400/), PMCID: [PMC11001490](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc11001490/).
 
 ## Abstract
  
