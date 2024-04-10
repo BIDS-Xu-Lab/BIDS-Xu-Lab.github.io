@@ -22,7 +22,9 @@ Dr. Qingyu Chen is an incoming tenure-track assistant professor at Biomedical In
 * AI-assisted healthcare applications
 * Biocuration
 
-<!-- Insert talk image here! -->
+
+<img style="width: 85%;" src="../image/news/2024-nlp-llm-ig-qingyu.jpg">
+
 
 ### Get Involved!
 
