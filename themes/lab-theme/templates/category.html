@@ -13,13 +13,30 @@
 <h1 id="{{ category}}"
     class="header-title"
     style="border-left: 10px solid #047bb5; padding-left: 0.5em;">
-    {{ category.name|astitle }}
+    {% if category.name == 'news' %} 
+        {{ category.name|astitle }}
+    {% else %}
+        Yale NLP/LLM Interest Group
+    {% endif %}
+    
 </h1>
 
 {% endblock header %}
 
 
 {% block content %}
+
+<!-- Insert link to NLP/LLM IG based on current page -->
+
+<!-- TO DO: Style the category navigation to look like a navigation bar. -->
+
+{% if category.name == 'news' %}
+<a href="./nlp-llm-ig.html" style="border: 1px solid gray;">Yale NLP/LLM Interest Group</a>
+{% else %}
+<a href="./news.html" style="border: 1px solid gray;">Go back</a>
+{% endif %}
+
+<!-- List all articles in a category (e.g. "news") -->
 
 {% for article in articles %}
 {% if article.tags and 'pin' in article.tags %}
