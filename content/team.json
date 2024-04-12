@@ -264,6 +264,14 @@
         "profile_url": ""
     },
 
+    {
+        "uid": "phd-kevin",
+        "track": "student",
+        "full_name": "Kevin Jin",
+        "title": "PhD Student",
+        "profile_photo": "p-kevinjin.jpg",
+        "profile_url": "https://kevinwjin.com/"
+    },
 
     {
         "uid": "stu23-cole",
