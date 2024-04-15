@@ -7,6 +7,10 @@
     {{ category.name|striptags|escape }} &ndash; {{ SITENAME }}
 {% endblock title %}
 
+<head>
+    <link href="../static/css/navbar.css" rel="stylesheet">
+</head>
+
 
 {% block header %}
 
@@ -30,11 +34,46 @@
 
 <!-- TO DO: Style the category navigation to look like a navigation bar. -->
 
-{% if category.name == 'news' %}
-<a href="./nlp-llm-ig.html" style="border: 1px solid gray;">Yale NLP/LLM Interest Group</a>
-{% else %}
-<a href="./news.html" style="border: 1px solid gray;">Go back</a>
-{% endif %}
+<div class="nav-bar">
+    {% if category.name == 'news' %}
+    <!-- <a href="./nlp-llm-ig.html" style="border: 1px solid gray;">Yale NLP/LLM Interest Group</a> -->
+    <a href="./nlp-llm-ig.html" class="nav-link">Yale NLP/LLM Interest Group</a>
+    {% else %}
+    <!-- <a href="./news.html" style="border: 1px solid gray;">Go back</a> -->
+    <a href = "./news.html" class="nav-link">Go back</a>
+    {% endif %}
+</div>
+
+<style>
+/* News category navigation bar (by Kevin Jin) */
+/* Base styles for navigation bar */
+.nav-bar {
+    background-color: #d8e6f4; /* Light grey background */
+    padding: 10px 20px; /* Padding around the navigation */
+    text-align: center; /* Center-align the links */
+    border-bottom: 2px solid #ccc; /* Add a subtle border */
+}
+
+/* Style for navigation links */
+.nav-link {
+    color: #216b90; /* Match the color to header border for consistency */
+    text-decoration: none; /* Remove underline from links */
+    font-size: 24px; /* Make the font a bit larger for better readability */
+    margin: 0 10px; /* Spacing between links */
+    padding: 8px 16px; /* Padding inside the link for a button-like appearance */
+    display: inline-block;
+    border: 2px solid transparent; /* Transparent border to maintain layout on hover */
+    border-radius: 5px; /* Rounded corners for a modern look */
+    transition: background-color 0.3s, border-color 0.3s; /* Smooth transition for hover effects */
+}
+
+/* Hover and focus styles for links */
+.nav-link:hover, .nav-link:focus {
+    background-color: #e9ecef; /* Light grey background on hover/focus */
+    border-color: #216b90; /* Border color changes to match the link color */
+    color: #333; /* Darker text for better contrast on hover/focus */
+}
+</style>
 
 <!-- List all articles in a category (e.g. "news") -->
 
