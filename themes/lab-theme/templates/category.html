@@ -29,9 +29,9 @@
 
 <div class="nav-bar">
     {% if category.name == 'news' %}
-    <a href="./nlp-llm-ig.html" class="nav-link">Yale NLP/LLM Interest Group</a>
+    <a href="./nlp-llm-ig.html" class="nav-link-nlp">Yale NLP/LLM Interest Group</a>
     {% else %}
-    <a href = "./news.html" class="nav-link">Go back</a>
+    <a href = "./news.html" class="nav-link-nlp">Go back</a>
     {% endif %}
 </div>
 
@@ -46,7 +46,7 @@
 }
 
 /* Style for navigation links */
-.nav-link {
+.nav-link-nlp {
     color: #216b90; /* Match the color to header border for consistency */
     text-decoration: none; /* Remove underline from links */
     font-size: 24px; /* Make the font a bit larger for better readability */
@@ -59,7 +59,7 @@
 }
 
 /* Hover and focus styles for links */
-.nav-link:hover, .nav-link:focus {
+.nav-link-nlp:hover, .nav-link-nlp:focus {
     background-color: #e9ecef; /* Light grey background on hover/focus */
     border-color: #216b90; /* Border color changes to match the link color */
     color: #333; /* Darker text for better contrast on hover/focus */
