@@ -7,11 +7,6 @@
     {{ category.name|striptags|escape }} &ndash; {{ SITENAME }}
 {% endblock title %}
 
-<head>
-    <link href="../static/css/navbar.css" rel="stylesheet">
-</head>
-
-
 {% block header %}
 
 <h1 id="{{ category}}"
@@ -32,14 +27,10 @@
 
 <!-- Insert link to NLP/LLM IG based on current page -->
 
-<!-- TO DO: Style the category navigation to look like a navigation bar. -->
-
 <div class="nav-bar">
     {% if category.name == 'news' %}
-    <!-- <a href="./nlp-llm-ig.html" style="border: 1px solid gray;">Yale NLP/LLM Interest Group</a> -->
     <a href="./nlp-llm-ig.html" class="nav-link">Yale NLP/LLM Interest Group</a>
     {% else %}
-    <!-- <a href="./news.html" style="border: 1px solid gray;">Go back</a> -->
     <a href = "./news.html" class="nav-link">Go back</a>
     {% endif %}
 </div>
