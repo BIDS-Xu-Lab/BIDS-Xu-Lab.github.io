@@ -13,6 +13,8 @@ Summary: "'GREAT PLEA': Ethical Principles for Adopting Generative AI in Healthc
 
 **Location**: 100 College Street, 11th Floor, Workshop 1167
 
+**Recording Link**: <https://www.youtube.com/watch?v=986fwyX9tSI>
+
 ### Speaker bio:
 
 Dr. Yanshan Wang is vice chair of research and assistant professor within the Department of Health Informatics. Before joining Pitt, Dr. Wang was assistant professor in the Department of AI & Informatics at Mayo Clinic. Dr. Wang has served as PI on multiple awards, and led several NIH-funded projects, which aimed to develop NLP and AI algorithms for EHR information extraction and automation. 

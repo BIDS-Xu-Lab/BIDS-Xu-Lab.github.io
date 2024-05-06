@@ -13,6 +13,8 @@ Summary: "Strategy Imitation via Prompt Generation without Parameter Tuning" by 
 
 **Location**: 100 College Street, 11th Floor, Workshop 1167
 
+**Recording Link**: <https://www.youtube.com/watch?v=VNn2DeKlcGc>
+
 ### Speaker bio:
 
 Dr. Tong Wang’s research interests are in developing machine learning solutions for business problems. Her work focuses on creating novel interpretable models that can effectively represent and analyze structured and unstructured data, such as texts and images. The overarching objective of these interpretable models is to extract valuable insights from the data, empowering stakeholders to make well-informed decisions while also facilitating a clear understanding of the decision-making processes employed by the models.
