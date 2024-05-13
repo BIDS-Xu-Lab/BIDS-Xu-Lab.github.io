@@ -56,6 +56,14 @@
         "profile_photo": "p-vipina.jpg",
         "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/vipina-kuttichikeloth/"
     },
+    {
+        "uid": "brian-ondov",
+        "track": "faculty",
+        "full_name": "Brian Ondov, PhD",
+        "title": "Associate Research Scientist in Biomedical Informatics and Data Science",
+        "profile_photo": "p-brian.jpg",
+        "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/brian-ondov/"
+    },
 
 
 
@@ -124,6 +132,14 @@
         "title": "Software Engineer",
         "profile_photo": "p-kj.jpg",
         "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/kj-richmond/"
+    },
+    {
+        "uid": "christian",
+        "track": "staff",
+        "full_name": "Christian Horgan",
+        "title": "Software Engineer",
+        "profile_photo": "p-christian.jpg",
+        "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/christian-horgan/"
     },
     {
         "uid": "ira",
