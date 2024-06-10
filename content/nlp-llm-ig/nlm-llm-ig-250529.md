@@ -13,7 +13,7 @@ Summary: "Kamino: A Scalable Architecture to Support Medical AI Research Using L
 
 **Location**: 100 College Street, 11th Floor, Workshop 1167
 
-**Recording Link**: *Coming soon*
+**Recording Link**: <https://www.youtube.com/watch?v=KUIqyXQXMEY>
 
 ### Speaker bio:
 

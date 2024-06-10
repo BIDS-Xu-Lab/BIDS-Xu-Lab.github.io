@@ -13,7 +13,7 @@ Summary: "Me LLaMA: Foundation Large Language Models for Medical Applications" b
 
 **Location**: 100 College Street, 11th Floor, Workshop 1167
 
-**Recording Link**: *Coming soon*
+**Recording Link**: <https://www.youtube.com/watch?v=h1m9AlVKedg>
 
 ### Speaker bio:
 
