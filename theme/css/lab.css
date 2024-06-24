@@ -1,0 +1,177 @@
+body {
+    overflow-x: hidden;
+}
+.bg-lab-white {
+    /* background-image: url(../img/bg.jpg); */
+    background-size: cover;
+}
+.bg-lab-img {
+    background-image: url(../img/bg4.jpg);
+    background-size: cover;
+}
+.bg-page {
+    padding-top: 9.5rem;
+    padding-bottom: 6rem;
+}
+.photo {
+    width: 100%;
+}
+#hp_header {
+    display: flex;
+    align-items: center;
+}
+.hp-header-text {
+    text-shadow: 0 0 20px black;
+}
+footer{
+    background-color: #fff; /* Adjust the background color as needed */
+    /* box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.5); */
+    border-top: 1px solid #cccccc;
+}
+/* 
+#navbar {
+    background: #ffffff !important;
+    border-bottom: 1px solid #dfdfdf;
+}
+#navbar .nav-link {
+    color: rgb(0, 0, 0) !important;
+    border-bottom: 2px solid transparent;
+}
+#navbar .nav-link:hover {
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+.navbar-transparent {
+    background: transparent !important;
+    border-bottom: 1px solid transparent;
+}
+.navbar-transparent .nav-link {
+    color: white !important;
+    border-bottom: 2px solid transparent;
+}
+.navbar-transparent .nav-link:hover {
+    border-bottom: 2px solid white;
+}
+
+.navbar-scroll {
+    background: #ffffff !important;
+    border-bottom: 1px solid #dfdfdf;
+}
+.navbar-scroll .navbar-brand {
+    color: #000;
+    border-bottom: 2px solid transparent;
+}
+.navbar-scroll .navbar-brand:hover {
+    color: #1f1f1f;
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+.navbar-scroll .nav-link {
+    color: rgb(0, 0, 0) !important;
+    border-bottom: 2px solid transparent;
+}
+.navbar-scroll .nav-link:hover {
+    color: black;
+    border-bottom: 2px solid rgb(0, 0, 0);
+} */
+
+/* people page */
+.profile-photo {
+    /* width: 150px; */
+    width: 100%;
+    max-width: 300px;
+}
+
+.home-img {
+    width: 90%; 
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
+}
+/* for mobile device */
+@media (max-width: 768px) {
+    .home-img {
+        width: 100%;
+        float: none;
+        margin-right: 0;
+        margin-bottom: 1em;
+    }
+}
+
+
+
+
+
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+
+/* Carousel base class */
+.carousel {
+    margin-bottom: 4rem;
+  }
+  /* Since positioning the image, we need to help out the caption */
+  .carousel-caption {
+    bottom: 3rem;
+    z-index: 10;
+  }
+  
+  /* Declare heights because of positioning of img element */
+  .carousel-item {
+    height: 32rem;
+  }
+  
+  
+  /* MARKETING CONTENT
+  -------------------------------------------------- */
+  
+  /* Center align the text within the three columns below the carousel */
+  .marketing .col-lg-4 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }
+  /* rtl:begin:ignore */
+  .marketing .col-lg-4 p {
+    margin-right: .75rem;
+    margin-left: .75rem;
+  }
+  /* rtl:end:ignore */
+  
+  
+  /* Featurettes
+  ------------------------- */
+  
+  .featurette-divider {
+    margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+  }
+  
+  /* Thin out the marketing headings */
+  /* rtl:begin:remove */
+  .featurette-heading {
+    letter-spacing: -.05rem;
+  }
+  
+  /* rtl:end:remove */
+  
+  /* RESPONSIVE CSS
+  -------------------------------------------------- */
+  
+  @media (min-width: 40em) {
+    /* Bump up size of carousel content */
+    .carousel-caption p {
+      margin-bottom: 1.25rem;
+      font-size: 1.25rem;
+      line-height: 1.4;
+    }
+  
+    .featurette-heading {
+      font-size: 50px;
+    }
+  }
+  
+  @media (min-width: 62em) {
+    .featurette-heading {
+      margin-top: 7rem;
+    }
+  }
