@@ -33,7 +33,7 @@
         "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/huan-he/"
     },
     {
-        "uid": "qingyu-chen",
+        "uid": "",
         "track": "faculty",
         "full_name": "Qingyu Chen, PhD",
         "title": "Associate Research Scientist of Biomedical Informatics and Data Science",
@@ -41,7 +41,7 @@
         "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/qingyu-chen/"
     },
     {
-        "uid": "fongci-lin",
+        "uid": "",
         "track": "faculty",
         "full_name": "Fongci Lin, PhD",
         "title": "Associate Research Scientist in Biomedical Informatics and Data Science",
@@ -107,7 +107,7 @@
         "uid": "lingfei-qian",
         "track": "postdoc",
         "full_name": "Lingfei Qian, PhD",
-        "title": "Postdoctoral Associate in Biomedical Informatics and Data Science",
+        "title": "Postdoctoral Associate",
         "profile_photo": "p-lingfeiqian.jpg",
         "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/lingfei-qian/"
     },
@@ -142,7 +142,31 @@
         "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/christian-horgan/"
     },
     {
-        "uid": "ira",
+        "uid": "vincent-zhang",
+        "track": "staff",
+        "full_name": "Vincent Zhang",
+        "title": "Software Engineer",
+        "profile_photo": "p-vincent.jpg",
+        "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/vincent-j-zhang/"
+    },
+    {
+        "uid": "mukund-aravapalli",
+        "track": "staff",
+        "full_name": "Mukund Aravapalli",
+        "title": "Software Engineer",
+        "profile_photo": "p-mukund.jpg",
+        "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/mukund-aravapalli/"
+    },
+    {
+        "uid": "",
+        "track": "staff",
+        "full_name": "",
+        "title": "Software Engineer",
+        "profile_photo": "p-ira.jpg",
+        "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/ira-einbinder/"
+    },
+    {
+        "uid": "",
         "track": "staff",
         "full_name": "Ira Einbinder",
         "title": "Software Engineer",
@@ -201,8 +225,8 @@
         "uid": "xuguangai",
         "track": "staff",
         "full_name": "Xuguang Ai",
-        "title": "Data Scientist",
-        "profile_photo": "p-xuguangai.jpg",
+        "title": "Software Engineer",
+        "profile_photo": "p-xuguang.jpg",
         "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/xuguang-ai/"
     },
     {
@@ -210,8 +234,16 @@
         "track": "staff",
         "full_name": "Yujia Zhou",
         "title": "Data Analyst",
-        "profile_photo": "p-yujiazhou.jpg",
+        "profile_photo": "p-yujia.jpg",
         "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/yujia-zhou/"
+    },
+    {
+        "uid": "sooyoun-tang",
+        "track": "staff",
+        "full_name": "Sooyoun Tan",
+        "title": "Senior Web Designer",
+        "profile_photo": "p-sooyoun.jpg",
+        "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/sooyoun-tan/"
     },
     {
         "uid": "ruey-ling-weng",
@@ -237,7 +269,7 @@
 
 
     {
-        "uid": "max-wibert",
+        "uid": "",
         "track": "intern",
         "full_name": "Max Wibert",
         "title": "Research Assistant",
@@ -261,10 +293,8 @@
         "profile_url": ""
     },
 
-
-
     {
-        "uid": "phd-zehanli",
+        "uid": "",
         "track": "student",
         "full_name": "Zehan (Leo) Li",
         "title": "PhD Student",
@@ -288,6 +318,7 @@
         "profile_url": ""
     },
 
+
     {
         "uid": "phd-kevin",
         "track": "student",
@@ -296,6 +327,53 @@
         "profile_photo": "p-kevinjin.jpg",
         "profile_url": "https://kevinwjin.com/"
     },
+
+    {
+        "uid": "phd-yuntian",
+        "track": "student",
+        "full_name": "Yuntian Liu",
+        "title": "PhD Student",
+        "profile_photo": "p-yuntian.jpg",
+        "profile_url": "https://medicine.yale.edu/profile/yuntian-liu/"
+    },
+    {
+        "uid": "phd-zhiyuancao",
+        "track": "student",
+        "full_name": "Zhiyuan Cao",
+        "title": "PhD Student",
+        "profile_photo": "p-zhiyuancao.jpg",
+        "profile_url": ""
+    },
+
+
+    {
+        "uid": "intern-bin",
+        "track": "student",
+        "full_name": "Bin Choi",
+        "title": "Intern Student",
+        "profile_photo": "p-binchoi.jpg",
+        "profile_url": "./"
+    },
+
+    {
+        "uid": "intern-gui",
+        "track": "student",
+        "full_name": "Gui Yang",
+        "title": "Intern Student",
+        "profile_photo": "p-guiyang.jpg",
+        "profile_url": "./"
+    },
+
+    {
+        "uid": "intern-bin",
+        "track": "student",
+        "full_name": "Rui Shi",
+        "title": "Intern Student",
+        "profile_photo": "p-ruishi.jpg",
+        "profile_url": "./"
+    },
+
+
 
     {
         "uid": "stu23-cole",
@@ -315,14 +393,7 @@
     },
 
 
-    {
-        "uid": "cap23-zhiyuancao",
-        "track": "student",
-        "full_name": "Zhiyuan Cao",
-        "title": "Capstone Project Student",
-        "profile_photo": "p-zhiyuancao.jpg",
-        "profile_url": ""
-    },
+
     {
         "uid": "cap23-dingweizhan",
         "track": "student",
