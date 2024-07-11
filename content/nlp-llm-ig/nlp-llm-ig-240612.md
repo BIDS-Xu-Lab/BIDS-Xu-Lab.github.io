@@ -13,7 +13,7 @@ Summary: "Give it to Me Straight, Doc: Rewriting Biomedical Abstracts in Plain L
 
 **Location**: 100 College Street, 11th Floor, Workshop 1167
 
-**Recording Link**: *Coming soon*
+**Recording Link**: <https://www.youtube.com/watch?v=o3nTdk-GZrM>
 
 ### Speaker bio:
 
