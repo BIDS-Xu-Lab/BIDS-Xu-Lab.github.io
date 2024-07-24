@@ -21,7 +21,7 @@ Reception is an essential process for patients seeking medical care and a critic
 
 <img style="width: 85%;" src="../image/news/20240719-nlp-llm-ig-erping_1.jpg">
 
-<img style="width: 85%;" src="../image/news/20240719-nlp-llm-ig-erping_2.jpg">
+<img style="width: 85%;" src="../image/news/20240719-nlp-llm-ig-erping_2.png">
 
 ### Get Involved!
 
