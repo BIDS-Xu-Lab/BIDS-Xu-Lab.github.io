@@ -158,17 +158,17 @@
         "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/mukund-aravapalli/"
     },
     {
-        "uid": "",
+        "uid": "ahmed-abdelhady",
         "track": "staff",
-        "full_name": "",
+        "full_name": "Ahmed Abdelhady",
         "title": "Software Engineer",
-        "profile_photo": "p-ira.jpg",
-        "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/ira-einbinder/"
+        "profile_photo": "p-ahmed.jpg",
+        "profile_url": "https://medicine.yale.edu/myysm/profile/ahmed-abdelhady/"
     },
     {
         "uid": "",
         "track": "staff",
-        "full_name": "Ira Einbinder",
+        "full_name": "",
         "title": "Software Engineer",
         "profile_photo": "p-ira.jpg",
         "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/ira-einbinder/"
