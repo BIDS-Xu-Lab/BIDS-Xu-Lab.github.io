@@ -13,7 +13,7 @@ Summary: "A novel clinical concept normalization approach using UMLS fine-tuned 
 
 **Location**: 100 College Street, 11th Floor, Workshop 1167
 
-**Recording Link**: <>
+**Recording Link**: <https://www.youtube.com/watch?v=YbbUGA1r_mI>
 
 ### Speaker bio:
 
