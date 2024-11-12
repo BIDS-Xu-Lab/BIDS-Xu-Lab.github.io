@@ -33,16 +33,16 @@
         "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/huan-he/"
     },
     {
-        "uid": "",
-        "track": "faculty",
+        "uid": "qingyu-chen",
+        "track": "alumni",
         "full_name": "Qingyu Chen, PhD",
         "title": "Associate Research Scientist of Biomedical Informatics and Data Science",
         "profile_photo": "p-qingyu.jpg",
         "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/qingyu-chen/"
     },
     {
-        "uid": "",
-        "track": "faculty",
+        "uid": "fongci-lin",
+        "track": "alumni",
         "full_name": "Fongci Lin, PhD",
         "title": "Associate Research Scientist in Biomedical Informatics and Data Science",
         "profile_photo": "p-fongci.jpg",
@@ -111,12 +111,14 @@
         "profile_photo": "p-lingfeiqian.jpg",
         "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/lingfei-qian/"
     },
-
-
-
-
-
-
+    {
+        "uid": "anran-li",
+        "track": "postdoc",
+        "full_name": "Anran Li, PhD",
+        "title": "Postdoctoral Associate in Biomedical Informatics and Data Science",
+        "profile_photo": "p-anran.jpg",
+        "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/anran-li/"
+    },
     {
         "uid": "chris",
         "track": "staff",
@@ -126,7 +128,7 @@
         "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/christopher-gilman/"
     },
     {
-        "uid": "kj",
+        "uid": "kj-richmond",
         "track": "staff",
         "full_name": "Kijana Richmond",
         "title": "Software Engineer",
@@ -174,15 +176,15 @@
         "profile_url": "https://medicine.yale.edu/myysm/profile/joao-cardoso/"
     },
     {
-        "uid": "",
-        "track": "staff",
-        "full_name": "",
+        "uid": "ira-einbinder",
+        "track": "alumni",
+        "full_name": "Ira Einbinder",
         "title": "Software Engineer",
         "profile_photo": "p-ira.jpg",
         "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/ira-einbinder/"
     },
     {
-        "uid": "pritham-ham",
+        "uid": "pritham-ram",
         "track": "staff",
         "full_name": "Pritham Ram",
         "title": "Program Manager",
@@ -206,15 +208,15 @@
         "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/polly-painter/"
     },
     {
-        "uid": "malaika",
-        "track": "staff",
+        "uid": "malaika-el-hamel",
+        "track": "alumni",
         "full_name": "Malaika El Hamel",
         "title": "Senior Administrative Assistant",
         "profile_photo": "p-malaika.jpg",
         "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/malaika-elhamel/"
     },
     {
-        "uid": "zach",
+        "uid": "zachary-chen",
         "track": "staff",
         "full_name": "Zachary Chen",
         "title": "Jr. Program Manager",
@@ -222,8 +224,8 @@
         "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/zachary-y-chen/"
     },
     {
-        "uid": "jimin",
-        "track": "staff",
+        "uid": "jimin-huang",
+        "track": "alumni",
         "full_name": "Jimin Huang",
         "title": "Data Scientist",
         "profile_photo": "p-jimin.jpg",
@@ -246,11 +248,11 @@
         "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/yujia-zhou/"
     },
     {
-        "uid": "sooyoun-tang",
+        "uid": "sooyoun-tan",
         "track": "staff",
         "full_name": "Sooyoun Tan",
         "title": "Senior Web Designer",
-        "profile_photo": "p-sooyoun.jpg",
+        "profile_photo": "p-soo.jpeg",
         "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/sooyoun-tan/"
     },
     {
@@ -261,46 +263,14 @@
         "profile_photo": "p-ruey-ling.jpg",
         "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/ruey-ling-weng/"
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     {
-        "uid": "",
-        "track": "intern",
+        "uid": "max-wibert",
+        "track": "alumni",
         "full_name": "Max Wibert",
         "title": "Research Assistant",
         "profile_photo": "p-max.jpg",
         "profile_url": "https://www.linkedin.com/in/maxwell-wibert/"
     },
-    {
-        "uid": "",
-        "track": "",
-        "full_name": "",
-        "title": "",
-        "profile_photo": "",
-        "profile_url": ""
-    },
-    {
-        "uid": "",
-        "track": "",
-        "full_name": "",
-        "title": "",
-        "profile_photo": "",
-        "profile_url": ""
-    },
-
     {
         "uid": "",
         "track": "student",
@@ -323,7 +293,7 @@
         "full_name": "Xu Zuo",
         "title": "PhD Student",
         "profile_photo": "p-xuzuo.jpg",
-        "profile_url": ""
+        "profile_url": "https://www.linkedin.com/in/xu-zuo-645aa0128"
     },
 
 
@@ -355,12 +325,12 @@
 
 
     {
-        "uid": "intern-bin",
-        "track": "student",
+        "uid": "bin-choi",
+        "track": "alumni",
         "full_name": "Bin Choi",
         "title": "Intern Student",
         "profile_photo": "p-binchoi.jpg",
-        "profile_url": "./"
+        "profile_url": "https://www.linkedin.com/in/binchoi"
     },
 
     {
@@ -478,7 +448,7 @@
 
 
     {
-        "uid": "",
+        "uid": "Ryan Denlinger",
         "track": "alumni",
         "full_name": "Ryan Denlinger, PhD",
         "title": "Software Engineer",

@@ -96,3 +96,16 @@
     {% endif %}
     {% endfor %}
 </div>
+
+<h2 class="my-4">
+    Lab Alumni
+</h2>
+<div class="row">
+    {% for p in PEOPLE %}
+    {% if p['track'] == 'alumni' %}
+    <div class="col-md-6">
+        {{ p|person2html(TEMPLATE_PERSON) }}
+    </div>
+    {% endif %}
+    {% endfor %}
+</div>
