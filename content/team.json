@@ -116,7 +116,7 @@
         "track": "postdoc",
         "full_name": "Anran Li, PhD",
         "title": "Postdoctoral Associate in Biomedical Informatics and Data Science",
-        "profile_photo": "p-anran.jpg",
+        "profile_photo": "p-anran.jpeg",
         "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/anran-li/"
     },
     {
@@ -172,7 +172,7 @@
         "track": "staff",
         "full_name": "João Cardoso",
         "title": "Software Engineer",
-        "profile_photo": "p-ira.jpg",
+        "profile_photo": "p-joao.jpg",
         "profile_url": "https://medicine.yale.edu/myysm/profile/joao-cardoso/"
     },
     {
@@ -457,93 +457,108 @@
     },
     {
         "uid": "a2",
-        "track": "alumni",
+        "track": "",
         "title": "Postdoctoral Fellow",
-        "full_name": "Mei Liu, PhD"
+        "full_name": "Mei Liu, PhD",
+        "profile_photo": "p-yingxuepan.jpg"
+    },
+    {
+        "uid": "a2",
+        "track": "",
+        "title": "Postdoctoral Fellow",
+        "full_name": "Samir AbdelRahman, PhD",
+        "profile_photo": "p-yingxuepan.jpg"
+    },
+    {
+        "uid": "a2",
+        "track": "",
+        "title": "Postdoctoral Fellow",
+        "full_name": "Yonghui Wu, PhD",
+        "profile_photo": "p-yingxuepan.jpg"
     },
     {
         "uid": "a2",
         "track": "alumni",
         "title": "Postdoctoral Fellow",
-        "full_name": "Samir AbdelRahman, PhD"
+        "full_name": "Buzhou Tang, PhD",
+        "profile_photo": "p-yingxuepan.jpg"
     },
     {
         "uid": "a2",
         "track": "alumni",
         "title": "Postdoctoral Fellow",
-        "full_name": "Yonghui Wu, PhD"
+        "full_name": "Guocai Chen, PhD",
+        "profile_photo": "p-yingxuepan.jpg"
     },
     {
         "uid": "a2",
         "track": "alumni",
         "title": "Postdoctoral Fellow",
-        "full_name": "Buzhou Tang, PhD"
-    },
-    {
-        "uid": "a2",
-        "track": "alumni",
-        "title": "Postdoctoral Fellow",
-        "full_name": "Guocai Chen, PhD"
-    },
-    {
-        "uid": "a2",
-        "track": "alumni",
-        "title": "Postdoctoral Fellow",
-        "full_name": "Ergin Soysal, M.D., Ph.D. "
+        "full_name": "Ergin Soysal, M.D., Ph.D.",
+        "profile_photo": "p-yingxuepan.jpg"
     },
     {
         "uid": "riea-moon",
         "track": "alumni",
         "title": "Postdoctoral Fellow",
-        "full_name": "Sungrim (Riea) Moon, PhD"
+        "full_name": "Sungrim (Riea) Moon, PhD",
+        "profile_photo": "p-yingxuepan.jpg"
     },
     {
         "uid": "a2",
         "track": "alumni",
         "title": "Postdoctoral Fellow",
-        "full_name": "Yaoyun Zhang, PhD"
+        "full_name": "Yaoyun Zhang, PhD",
+        "profile_photo": "p-yingxuepan.jpg"
     },
     {
         "uid": "a2",
         "track": "alumni",
         "title": "Postdoctoral Fellow",
-        "full_name": "Jun Xu, PhD"
+        "full_name": "Jun Xu, PhD",
+        "profile_photo": "p-yingxuepan.jpg"
     },
     {
         "uid": "a2",
         "track": "alumni",
         "title": "Postdoctoral Fellow",
-        "full_name": "Hee-jin Lee, PhD"
+        "full_name": "Hee-jin Lee, PhD",
+        "profile_photo": "p-yingxuepan.jpg"
     },
     {
         "uid": "a2",
         "track": "alumni",
         "title": "Postdoctoral Fellow",
-        "full_name": "Zongcheng Ji, PhD"
+        "full_name": "Zongcheng Ji, PhD",
+        "profile_photo": "p-yingxuepan.jpg"
     },
     {
         "uid": "a2",
         "track": "alumni",
         "title": "Postdoctoral Fellow",
-        "full_name": "Alice Nono Djotsa, PhD"
+        "full_name": "Alice Nono Djotsa, PhD",
+        "profile_photo": "p-yingxuepan.jpg"
     },
     {
         "uid": "a2",
         "track": "alumni",
         "title": "Postdoctoral Fellow",
-        "full_name": "Omid Ghiasvand, PhD"
+        "full_name": "Omid Ghiasvand, PhD",
+        "profile_photo": "p-yingxuepan.jpg"
     },
     {
         "uid": "a2",
         "track": "alumni",
         "title": "Postdoctoral Fellow",
-        "full_name": "Qiang Wei, PhD"
+        "full_name": "Qiang Wei, PhD",
+        "profile_photo": "p-yingxuepan.jpg"
     },
     {
         "uid": "a2",
         "track": "alumni",
         "title": "Postdoctoral Fellow",
-        "full_name": "Avisha Das, PhD"
+        "full_name": "Avisha Das, PhD",
+        "profile_photo": "p-yingxuepan.jpg"
     },
 
 
@@ -554,46 +569,55 @@
         "uid": "a3",
         "track": "alumni",
         "title": "PhD Student",
-        "full_name": "Jianbo Lei, PhD"
+        "full_name": "Jianbo Lei, PhD",
+        "profile_photo": "p-yingxuepan.jpg"
     },{
         "uid": "a3",
         "track": "alumni",
         "title": "PhD Student",
-        "full_name": "Yukun Chen, PhD"
+        "full_name": "Yukun Chen, PhD",
+        "profile_photo": "p-yingxuepan.jpg"
     },{
         "uid": "a3",
         "track": "alumni",
         "title": "PhD Student",
-        "full_name": "Min Jiang, PhD"
+        "full_name": "Min Jiang, PhD",
+        "profile_photo": "p-yingxuepan.jpg"
     },{
         "uid": "a3",
         "track": "alumni",
         "title": "PhD Student",
-        "full_name": "Jun Li, PhD"
+        "full_name": "Jun Li, PhD",
+        "profile_photo": "p-yingxuepan.jpg"
     },{
         "uid": "a3",
         "track": "alumni",
         "title": "PhD Student",
-        "full_name": "Lian Hu, PhD"
+        "full_name": "Lian Hu, PhD",
+        "profile_photo": "p-yingxuepan.jpg"
     },{
         "uid": "a3",
         "track": "alumni",
         "title": "PhD Student",
-        "full_name": "Lingyi Tang, PhD"
+        "full_name": "Lingyi Tang, PhD",
+        "profile_photo": "p-yingxuepan.jpg"
     },{
         "uid": "a3",
         "track": "alumni",
         "title": "PhD Student",
-        "full_name": "Qiang Wei, PhD"
+        "full_name": "Qiang Wei, PhD",
+        "profile_photo": "p-yingxuepan.jpg"
     },{
         "uid": "a3",
         "track": "alumni",
         "title": "PhD Student",
-        "full_name": "Xiao Dong, PhD"
+        "full_name": "Xiao Dong, PhD",
+        "profile_photo": "p-yingxuepan.jpg"
     },{
         "uid": "a3",
         "track": "alumni",
         "title": "PhD Student",
-        "full_name": "Yiming Li, PhD"
+        "full_name": "Yiming Li, PhD",
+        "profile_photo": "p-yingxuepan.jpg"
     }
 ]}
