@@ -120,6 +120,52 @@
         "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/anran-li/"
     },
     {
+        "uid": "weipeng-zhou",
+        "track": "postdoc",
+        "full_name": "Weipeng Zhou, PhD",
+        "title": "Postdoctoral Associate in Biomedical Informatics and Data Science",
+        "profile_photo": "p-weipeng.jpg",
+        "profile_url": "https://medicine.yale.edu/profile/weipeng-zhou/"
+    },
+    {
+        "uid": "yang-ren",
+        "track": "postdoc",
+        "full_name": "Yang Ren, PhD",
+        "title": "Postdoctoral Associate in Biomedical Informatics and Data Science",
+        "profile_photo": "p-yangren.jpg",
+        "profile_url": "https://medicine.yale.edu/profile/yang-ren/"
+    },
+    {
+        "uid": "chia-hsuan",
+        "track": "postdoc",
+        "full_name": "Chia-Hsuan Chang, PhD",
+        "title": "Postdoctoral Associate in Biomedical Informatics and Data Science",
+        "profile_photo": "p-chia.jpg",
+        "profile_url": "https://medicine.yale.edu/profile/chia-hsuan-chang/"
+    },
+    {
+        "uid": "fan-ma",
+        "track": "postdoc",
+        "full_name": "Fan Ma, PhD",
+        "title": "Postdoctoral Associate in Biomedical Informatics and Data Science",
+        "profile_photo": "p-fan.jpg",
+        "profile_url": "https://medicine.yale.edu/profile/fan-ma/"
+    },
+    {
+        "uid": "kriti",
+        "track": "postdoc",
+        "full_name": "Kriti Bhattarai, PhD",
+        "title": "Postdoctoral Associate in Biomedical Informatics and Data Science",
+        "profile_photo": "p-kriti.jpg",
+        "profile_url": "https://medicine.yale.edu/profile/kriti-bhattarai/"
+    },
+
+
+
+
+
+
+    {
         "uid": "chris",
         "track": "staff",
         "full_name": "Christopher Gilman",
