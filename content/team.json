@@ -66,7 +66,7 @@
     },
     {
         "uid": "qianqian-xie",
-        "track": "faculty",
+        "track": "alumni",
         "full_name": "Qianqian Xie, PhD",
         "title": "Associate Research Scientist in Biomedical Informatics and Data Science",
         "profile_photo": "p-qianqian.jpg",
@@ -89,7 +89,7 @@
     },
     {
         "uid": "jeffrey-zhang",
-        "track": "postdoc",
+        "track": "alumni",
         "full_name": "Jeffrey Zhang, PhD",
         "title": "Postdoctoral Fellow in Biomedical Informatics and Data Science",
         "profile_photo": "p-jeff.jpg",
@@ -102,14 +102,6 @@
         "title": "Postdoctoral Associate in Biomedical Informatics and Data Science",
         "profile_photo": "p-lingfeiqian.jpg",
         "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/lingfei-qian/"
-    },
-    {
-        "uid": "anran-li",
-        "track": "postdoc",
-        "full_name": "Anran Li, PhD",
-        "title": "Postdoctoral Associate in Biomedical Informatics and Data Science",
-        "profile_photo": "p-anran.jpeg",
-        "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/anran-li/"
     },
     {
         "uid": "weipeng-zhou",
@@ -167,7 +159,7 @@
     },
     {
         "uid": "kj-richmond",
-        "track": "staff",
+        "track": "alumni",
         "full_name": "Kijana Richmond",
         "title": "Software Engineer",
         "profile_photo": "p-kj.jpg",
@@ -182,6 +174,14 @@
         "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/christian-horgan/"
     },
     {
+        "uid": "eric-gossett",
+        "track": "staff",
+        "full_name": "Eric Gossett",
+        "title": "Software Engineer",
+        "profile_photo": "p-eric.jpg",
+        "profile_url": "https://medicine.yale.edu/biomedical-informatics-data-science/profile/eric-gossett/"
+    },
+    {
         "uid": "vincent-zhang",
         "track": "staff",
         "full_name": "Vincent Zhang",
@@ -191,7 +191,7 @@
     },
     {
         "uid": "mukund-aravapalli",
-        "track": "staff",
+        "track": "alumni",
         "full_name": "Mukund Aravapalli",
         "title": "Software Engineer",
         "profile_photo": "p-mukund.jpg",
@@ -207,7 +207,7 @@
     },
     {
         "uid": "joao-cardoso",
-        "track": "staff",
+        "track": "alumni",
         "full_name": "João Cardoso",
         "title": "Software Engineer",
         "profile_photo": "p-joao.jpeg",
@@ -218,7 +218,7 @@
         "track": "staff",
         "full_name": "Winnie Ng",
         "title": "Software Engineer",
-        "profile_photo": "p-yingxuepan.jpg",
+        "profile_photo": "p-winnie.jpg",
         "profile_url": "https://medicine.yale.edu/profile/chiwingwinnie-ng/"
     },
     {
@@ -239,7 +239,7 @@
     },
     {
         "uid": "alex-schwartz",
-        "track": "staff",
+        "track": "alumni",
         "full_name": "Alexander Schwartz",
         "title": "Program Manager",
         "profile_photo": "p-alexs.jpg",
